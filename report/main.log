@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.15)  5 JAN 2026 21:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.15)  6 JAN 2026 00:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -434,42 +434,119 @@ Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
 Package bm Info: No bold for \U/msa/m/n, using \pmb.
 Package bm Info: No bold for \U/msb/m/n, using \pmb.
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
+) (C:\Users\cenni\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
+\c@tracingmulticols=\count343
+\mult@box=\box69
+\multicol@leftmargin=\dimen261
+\c@unbalance=\count344
+\c@collectmore=\count345
+\doublecol@number=\count346
+\multicoltolerance=\count347
+\multicolpretolerance=\count348
+\full@width=\dimen262
+\page@free=\dimen263
+\premulticols=\dimen264
+\postmulticols=\dimen265
+\multicolsep=\skip60
+\multicolbaselineskip=\skip61
+\partial@page=\box70
+\last@line=\box71
+\mc@boxedresult=\box72
+\maxbalancingoverflow=\dimen266
+\mult@rightbox=\box73
+\mult@grightbox=\box74
+\mult@firstbox=\box75
+\mult@gfirstbox=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\c@minrows=\count349
+\c@columnbadness=\count350
+\c@finalcolumnbadness=\count351
+\last@try=\dimen267
+\multicolovershoot=\dimen268
+\multicolundershoot=\dimen269
+\mult@nat@firstbox=\box113
+\colbreak@box=\box114
+\mc@col@check@num=\count352
+\g__mc_curr_col_int=\count353
+) (C:\Users\cenni\AppData\Local\Programs\MiKTeX\tex/latex/abstract\abstract.sty
+Package: abstract 2009/06/08 v1.2a configurable abstracts
+\abstitleskip=\skip62
+\absleftindent=\skip63
+\absrightindent=\skip64
+\absparindent=\skip65
+\absparsep=\skip66
 ) (C:\Users\cenni\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count343
+\l__color_backend_stack_int=\count354
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
  (C:\Users\cenni\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count344
-\scratchdimen=\dimen261
-\scratchbox=\box69
-\nofMPsegments=\count345
-\nofMParguments=\count346
+\scratchcounter=\count355
+\scratchdimen=\dimen270
+\scratchbox=\box115
+\nofMPsegments=\count356
+\nofMParguments=\count357
 \everyMPshowfont=\toks36
-\MPscratchCnt=\count347
-\MPscratchDim=\dimen262
-\MPnumerator=\count348
-\makeMPintoPDFobject=\count349
+\MPscratchCnt=\count358
+\MPscratchDim=\dimen271
+\MPnumerator=\count359
+\makeMPintoPDFobject=\count360
 \everyMPtoPDFconversion=\toks37
 ) (C:\Users\cenni\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -515,8 +592,8 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count350
-Package hyperref Info: Link coloring OFF on input line 82.
+\c@lstlisting=\count361
+Package hyperref Info: Link coloring OFF on input line 84.
 (main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
@@ -524,20 +601,20 @@ Package hyperref Info: Link coloring OFF on input line 82.
  (C:\Users\cenni\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 82.
-<figs/logo_unibo.png, id=91, 766.865pt x 401.5pt>
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 84.
+<figs/logo_unibo.png, id=155, 766.865pt x 401.5pt>
 File: figs/logo_unibo.png Graphic file (type png)
 <use figs/logo_unibo.png>
-Package pdftex.def Info: figs/logo_unibo.png  used on input line 95.
+Package pdftex.def Info: figs/logo_unibo.png  used on input line 97.
 (pdftex.def)             Requested size: 207.05632pt x 108.40643pt.
  [1
 
 {C:/Users/cenni/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./figs/logo_unibo.png (PNG copy)>] (main.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
  (C:\Users\cenni\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
  (C:\Users\cenni\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
@@ -548,37 +625,114 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.130 \newpage
+l.132 \newpage
                [1] (main.lof)
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
- [2] [3]
-<figs/placeholder.jpg, id=141, 227.4096pt x 390.258pt>
+ [2] (sections/00_abstract.tex [3]) (sections/01_introduction.tex
+<figs/placeholder.jpg, id=250, 227.4096pt x 390.258pt>
 File: figs/placeholder.jpg Graphic file (type jpg)
 <use figs/placeholder.jpg>
-Package pdftex.def Info: figs/placeholder.jpg  used on input line 152.
+Package pdftex.def Info: figs/placeholder.jpg  used on input line 12.
 (pdftex.def)             Requested size: 45.52718pt x 78.12762pt.
- [4 <./figs/placeholder.jpg>] [5] [6] [7] [8] [9] [10] [11] (main.aux)
+ [4 <./figs/placeholder.jpg>]) (sections/02_section1.tex [5]) (sections/03_section2.tex [6]) (sections/04_section3.tex
+File: figs/placeholder.jpg Graphic file (type jpg)
+<use figs/placeholder.jpg>
+Package pdftex.def Info: figs/placeholder.jpg  used on input line 31.
+(pdftex.def)             Requested size: 22.26355pt x 38.20631pt.
+File: figs/placeholder.jpg Graphic file (type jpg)
+<use figs/placeholder.jpg>
+Package pdftex.def Info: figs/placeholder.jpg  used on input line 38.
+(pdftex.def)             Requested size: 22.26355pt x 38.20631pt.
+File: figs/placeholder.jpg Graphic file (type jpg)
+<use figs/placeholder.jpg>
+Package pdftex.def Info: figs/placeholder.jpg  used on input line 62.
+(pdftex.def)             Requested size: 45.52718pt x 78.12762pt.
+File: figs/placeholder.jpg Graphic file (type jpg)
+<use figs/placeholder.jpg>
+Package pdftex.def Info: figs/placeholder.jpg  used on input line 75.
+(pdftex.def)             Requested size: 45.52718pt x 78.12762pt.
+ [7]
+File: figs/placeholder.jpg Graphic file (type jpg)
+<use figs/placeholder.jpg>
+Package pdftex.def Info: figs/placeholder.jpg  used on input line 86.
+(pdftex.def)             Requested size: 45.52718pt x 78.12762pt.
+File: figs/placeholder.jpg Graphic file (type jpg)
+<use figs/placeholder.jpg>
+Package pdftex.def Info: figs/placeholder.jpg  used on input line 100.
+(pdftex.def)             Requested size: 45.52718pt x 78.12762pt.
+ [8]) (sections/05_section4.tex
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 45.
+
+File: figs/placeholder.jpg Graphic file (type jpg)
+<use figs/placeholder.jpg>
+Package pdftex.def Info: figs/placeholder.jpg  used on input line 47.
+(pdftex.def)             Requested size: 45.52718pt x 78.12762pt.
+[9]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 52.
+
+File: figs/placeholder.jpg Graphic file (type jpg)
+<use figs/placeholder.jpg>
+Package pdftex.def Info: figs/placeholder.jpg  used on input line 54.
+(pdftex.def)             Requested size: 45.52718pt x 78.12762pt.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 59.
+
+File: figs/placeholder.jpg Graphic file (type jpg)
+<use figs/placeholder.jpg>
+Package pdftex.def Info: figs/placeholder.jpg  used on input line 61.
+(pdftex.def)             Requested size: 45.52718pt x 78.12762pt.
+[10]) (sections/06_section5.tex
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 41.
+
+File: figs/placeholder.jpg Graphic file (type jpg)
+<use figs/placeholder.jpg>
+Package pdftex.def Info: figs/placeholder.jpg  used on input line 43.
+(pdftex.def)             Requested size: 45.52718pt x 78.12762pt.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 48.
+
+File: figs/placeholder.jpg Graphic file (type jpg)
+<use figs/placeholder.jpg>
+Package pdftex.def Info: figs/placeholder.jpg  used on input line 50.
+(pdftex.def)             Requested size: 45.52718pt x 78.12762pt.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 55.
+
+File: figs/placeholder.jpg Graphic file (type jpg)
+<use figs/placeholder.jpg>
+Package pdftex.def Info: figs/placeholder.jpg  used on input line 57.
+(pdftex.def)             Requested size: 45.52718pt x 78.12762pt.
+[11]) (sections/07_section6.tex [12]) (sections/08_conclusion.tex) (sections/09_appendix.tex [13] [14] [15]) [16] (main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-06>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F1A6C09DE73F05821E98410DFFA15BB2;4082.
+(rerunfilecheck)             Checksum: F632B733C0AD2A9ED9D4BD4576371A7E;7755.
  ) 
 Here is how much of TeX's memory you used:
- 19065 strings out of 467871
- 360814 string characters out of 5418375
- 749220 words of memory out of 5000000
- 47677 multiletter control sequences out of 15000+600000
- 642413 words of font info for 77 fonts, out of 8000000 for 9000
+ 19445 strings out of 467871
+ 368804 string characters out of 5418375
+ 765072 words of memory out of 5000000
+ 47950 multiletter control sequences out of 15000+600000
+ 644641 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,10n,79p,619b,1063s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (12 pages, 461944 bytes).
+ 75i,10n,79p,619b,1074s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on main.pdf (17 pages, 560368 bytes).
 PDF statistics:
- 590 PDF objects out of 1000 (max. 8388607)
- 51 named destinations out of 1000 (max. 500000)
- 187 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 888 PDF objects out of 1000 (max. 8388607)
+ 117 named destinations out of 1000 (max. 500000)
+ 315 words of extra memory for PDF output out of 10000 (max. 10000000)
 
