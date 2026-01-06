@@ -1,31 +1,31 @@
 \babel@toc {english}{}\relax 
-\contentsline {figure}{\numberline {1}{\ignorespaces Double Pendulum System with flexible link.}}{5}{figure.caption.4}%
-\contentsline {figure}{\numberline {2}{\ignorespaces 3D Equilibrium manifold.}}{7}{figure.2}%
-\contentsline {figure}{\numberline {3}{\ignorespaces Equilibrium manifold as a function of $\theta _1$.}}{7}{figure.caption.5}%
-\contentsline {figure}{\numberline {4}{\ignorespaces Armijo line search behavior A.}}{9}{figure.caption.6}%
-\contentsline {figure}{\numberline {5}{\ignorespaces Armijo line search behavior B.}}{9}{figure.caption.7}%
-\contentsline {figure}{\numberline {6}{\ignorespaces stepwise reference trajectory}}{10}{figure.caption.8}%
-\contentsline {figure}{\numberline {7}{\ignorespaces poly 5 reference trajectory}}{10}{figure.caption.9}%
-\contentsline {figure}{\numberline {8}{\ignorespaces poly 5 reference trajectory}}{10}{figure.caption.10}%
-\contentsline {figure}{\numberline {9}{\ignorespaces poly 5 reference trajectory}}{10}{figure.caption.11}%
-\contentsline {figure}{\numberline {10}{\ignorespaces poly 5 reference trajectory}}{11}{figure.caption.12}%
-\contentsline {figure}{\numberline {11}{\ignorespaces poly 5 reference trajectory}}{11}{figure.caption.13}%
-\contentsline {figure}{\numberline {12}{\ignorespaces poly 5 reference trajectory}}{11}{figure.caption.14}%
-\contentsline {figure}{\numberline {13}{\ignorespaces poly 5 reference trajectory}}{11}{figure.caption.15}%
-\contentsline {figure}{\numberline {14}{\ignorespaces poly 5 reference trajectory}}{12}{figure.caption.16}%
-\contentsline {figure}{\numberline {15}{\ignorespaces poly 5 reference trajectory}}{12}{figure.caption.17}%
-\contentsline {figure}{\numberline {16}{\ignorespaces poly 5 reference trajectory}}{12}{figure.caption.18}%
-\contentsline {figure}{\numberline {17}{\ignorespaces Trajectory tracking on a downward maneuver}}{15}{figure.caption.19}%
-\contentsline {figure}{\numberline {18}{\ignorespaces Error analysis during LQR tracking of downward maneuver}}{16}{figure.caption.20}%
-\contentsline {figure}{\numberline {19}{\ignorespaces Trajectory tracking on a swing-up maneuver}}{17}{figure.caption.21}%
-\contentsline {figure}{\numberline {20}{\ignorespaces Error analysis during LQR tracking}}{18}{figure.caption.22}%
-\contentsline {figure}{\numberline {21}{\ignorespaces Trajectory tracking on a hold maneuver}}{19}{figure.caption.23}%
-\contentsline {figure}{\numberline {22}{\ignorespaces Error analysis during LQR tracking}}{20}{figure.caption.24}%
-\contentsline {figure}{\numberline {23}{\ignorespaces Trajectory tracking on a elbow up maneuver}}{21}{figure.caption.25}%
-\contentsline {figure}{\numberline {24}{\ignorespaces Error analysis during LQR tracking}}{22}{figure.caption.26}%
-\contentsline {figure}{\numberline {25}{\ignorespaces Trajectory tracking on a dive maneuver}}{24}{figure.caption.27}%
-\contentsline {figure}{\numberline {26}{\ignorespaces Error analysis during MPC tracking of dive maneuver}}{25}{figure.caption.28}%
-\contentsline {figure}{\numberline {27}{\ignorespaces Trajectory tracking on a swing up maneuver}}{26}{figure.caption.29}%
-\contentsline {figure}{\numberline {28}{\ignorespaces Error analysis during MPC tracking of swing up maneuver}}{27}{figure.caption.30}%
-\contentsline {figure}{\numberline {29}{\ignorespaces Trajectory tracking on a elbow up maneuver}}{28}{figure.caption.31}%
-\contentsline {figure}{\numberline {30}{\ignorespaces Error analysis during MPC tracking of a elbow maneuver}}{29}{figure.caption.32}%
+\contentsline {figure}{\numberline {1}{\ignorespaces Double Pendulum System with flexible link.}}{6}{figure.caption.4}%
+\contentsline {figure}{\numberline {2}{\ignorespaces 3D Equilibrium manifold.}}{8}{figure.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Equilibrium manifold as a function of $\theta _1$.}}{8}{figure.caption.5}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Armijo line search behavior A.}}{10}{figure.caption.6}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Armijo line search behavior B.}}{10}{figure.caption.7}%
+\contentsline {figure}{\numberline {6}{\ignorespaces stepwise reference trajectory}}{11}{figure.caption.8}%
+\contentsline {figure}{\numberline {7}{\ignorespaces poly 5 reference trajectory}}{11}{figure.caption.9}%
+\contentsline {figure}{\numberline {8}{\ignorespaces poly 5 reference trajectory}}{11}{figure.caption.10}%
+\contentsline {figure}{\numberline {9}{\ignorespaces poly 5 reference trajectory}}{11}{figure.caption.11}%
+\contentsline {figure}{\numberline {10}{\ignorespaces poly 5 reference trajectory}}{12}{figure.caption.12}%
+\contentsline {figure}{\numberline {11}{\ignorespaces poly 5 reference trajectory}}{12}{figure.caption.13}%
+\contentsline {figure}{\numberline {12}{\ignorespaces poly 5 reference trajectory}}{12}{figure.caption.14}%
+\contentsline {figure}{\numberline {13}{\ignorespaces poly 5 reference trajectory}}{12}{figure.caption.15}%
+\contentsline {figure}{\numberline {14}{\ignorespaces poly 5 reference trajectory}}{13}{figure.caption.16}%
+\contentsline {figure}{\numberline {15}{\ignorespaces poly 5 reference trajectory}}{13}{figure.caption.17}%
+\contentsline {figure}{\numberline {16}{\ignorespaces poly 5 reference trajectory}}{13}{figure.caption.18}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Trajectory tracking on a downward maneuver}}{16}{figure.caption.19}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Error analysis during LQR tracking of downward maneuver}}{17}{figure.caption.20}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Trajectory tracking on a swing-up maneuver}}{18}{figure.caption.21}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Error analysis during LQR tracking}}{19}{figure.caption.22}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Trajectory tracking on a hold maneuver}}{20}{figure.caption.23}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Error analysis during LQR tracking}}{21}{figure.caption.24}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Trajectory tracking on a elbow up maneuver}}{22}{figure.caption.25}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Error analysis during LQR tracking}}{23}{figure.caption.26}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Trajectory tracking on a dive maneuver}}{25}{figure.caption.27}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Error analysis during MPC tracking of dive maneuver}}{26}{figure.caption.28}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Trajectory tracking on a swing up maneuver}}{27}{figure.caption.29}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Error analysis during MPC tracking of swing up maneuver}}{28}{figure.caption.30}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Trajectory tracking on a elbow up maneuver}}{29}{figure.caption.31}%
+\contentsline {figure}{\numberline {30}{\ignorespaces Error analysis during MPC tracking of a elbow maneuver}}{30}{figure.caption.32}%
