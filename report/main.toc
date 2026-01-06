@@ -1,44 +1,44 @@
 \babel@toc {english}{}\relax 
 \contentsline {section}{\numberline {1}Task 0: Problem Setup and Discretization}{5}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Discretization Methods}{5}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Analytic Jacobian Computation}{5}{subsection.1.2}%
-\contentsline {section}{\numberline {2}Task 1: Equilibria and Terminal Cost}{6}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Equilibrium Manifold}{6}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Cost Function}{6}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Terminal Cost via DARE}{6}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Step Size Selection (Armijo Rule)}{6}{subsection.2.4}%
-\contentsline {section}{\numberline {3}Task 2: Trajectory Generation (Newton's Method)}{7}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Reference Generation}{7}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}Tasks definition}{7}{subsubsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.2}Newton's method applied to Stepwise reference trajectory}{7}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Newton's method applied to polynomial reference trajectory}{7}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Dynamic Horizon Extension Strategy}{8}{subsection.3.4}%
-\contentsline {section}{\numberline {4}Task 3: Trajectory Tracking via LQR}{9}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Linear Time-Varying (LTV) LQR}{9}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Implementation Details}{9}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Simulation Results}{10}{subsection.4.3}%
-\contentsline {section}{\numberline {5}Task 4: Trajectory Tracking via MPC}{11}{section.5}%
-\contentsline {subsection}{\numberline {5.1}MPC Formulation}{11}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Key Features}{11}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Simulation Results}{11}{subsection.5.3}%
-\contentsline {section}{\numberline {6}Task 5: Animation}{12}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Visualization}{12}{subsection.6.1}%
-\contentsline {section}{\numberline {7}Conclusion}{13}{section.7}%
-\contentsline {section}{\numberline {8}Appendix}{13}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Apprendix A: Analytical Derivation of the Jacobian}{13}{subsection.8.1}%
-\contentsline {subsubsection}{\numberline {8.1.1}State-Space Formulation}{13}{subsubsection.8.1.1}%
-\contentsline {subsubsection}{\numberline {8.1.2}Jacobian Matrix A}{13}{subsubsection.8.1.2}%
-\contentsline {subsubsection}{\numberline {8.1.3}Block $A_{22}$: Partial Derivative w.r.t. Velocities}{13}{subsubsection.8.1.3}%
-\contentsline {subsubsection}{\numberline {8.1.4}Block $A_{21}$: Partial Derivative w.r.t. Positions}{13}{subsubsection.8.1.4}%
-\contentsline {paragraph}{Term 1: Derivative of Inverse Mass Matrix}{14}{section*.17}%
-\contentsline {paragraph}{Term 2: Derivative of Forces}{14}{section*.18}%
-\contentsline {subsubsection}{\numberline {8.1.5}Jacobian Matrix B}{14}{subsubsection.8.1.5}%
-\contentsline {subsubsection}{\numberline {8.1.6}Explicit Derivative Matrices}{14}{subsubsection.8.1.6}%
-\contentsline {paragraph}{Gravity Gradient}{14}{section*.19}%
-\contentsline {paragraph}{Coriolis Velocity Gradient}{14}{section*.20}%
-\contentsline {paragraph}{Mass Matrix Gradient}{14}{section*.21}%
-\contentsline {subsection}{\numberline {8.2}Appendix B: Derivation of Discrete-Time Jacobians}{14}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3}Forward Euler Discretization}{15}{subsection.8.3}%
-\contentsline {subsection}{\numberline {8.4}Runge-Kutta 4 (RK4) Discretization}{15}{subsection.8.4}%
-\contentsline {subsubsection}{\numberline {8.4.1}State Jacobian $A_d$}{15}{subsubsection.8.4.1}%
-\contentsline {subsubsection}{\numberline {8.4.2}Input Jacobian $B_d$}{15}{subsubsection.8.4.2}%
+\contentsline {subsection}{\numberline {1.2}Analytic Jacobian Computation}{6}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Task 1: Equilibria and Terminal Cost}{7}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Equilibrium Manifold}{7}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Cost Function}{7}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Terminal Cost via DARE}{8}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Step Size Selection (Armijo Rule)}{8}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Task 2: Trajectory Generation (Newton's Method)}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Reference Generation}{9}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Tasks definition}{9}{subsubsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.2}Newton's method applied to Stepwise reference trajectory}{10}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Newton's method applied to polynomial reference trajectory}{10}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Dynamic Horizon Extension Strategy}{11}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Task 3: Trajectory Tracking via LQR}{13}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Linear Time-Varying (LTV) LQR}{13}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Implementation Details}{13}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Simulation Results}{14}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Task 4: Trajectory Tracking via MPC}{15}{section.5}%
+\contentsline {subsection}{\numberline {5.1}MPC Formulation}{15}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Key Features}{15}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Simulation Results}{15}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Task 5: Animation}{16}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Visualization}{16}{subsection.6.1}%
+\contentsline {section}{\numberline {7}Conclusion}{17}{section.7}%
+\contentsline {section}{\numberline {8}Appendix}{18}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Models matrices and parameters}{18}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Analytical Derivation of the Jacobian}{18}{subsection.8.2}%
+\contentsline {subsubsection}{\numberline {8.2.1}State-Space Formulation}{18}{subsubsection.8.2.1}%
+\contentsline {subsubsection}{\numberline {8.2.2}Block $A_{22}$: Partial Derivative w.r.t. Velocities}{19}{subsubsection.8.2.2}%
+\contentsline {subsubsection}{\numberline {8.2.3}Block $A_{21}$: Partial Derivative w.r.t. Positions}{19}{subsubsection.8.2.3}%
+\contentsline {paragraph}{Term 1: Derivative of Inverse Mass Matrix}{19}{section*.24}%
+\contentsline {paragraph}{Term 2: Derivative of Forces}{19}{section*.25}%
+\contentsline {subsubsection}{\numberline {8.2.4}Jacobian Matrix B}{19}{subsubsection.8.2.4}%
+\contentsline {subsubsection}{\numberline {8.2.5}Explicit Derivative Matrices}{19}{subsubsection.8.2.5}%
+\contentsline {paragraph}{Gravity Gradient}{19}{section*.26}%
+\contentsline {paragraph}{Coriolis Velocity Gradient}{19}{section*.27}%
+\contentsline {paragraph}{Mass Matrix Gradient}{19}{section*.28}%
+\contentsline {subsection}{\numberline {8.3}Derivation of Discrete-Time Jacobians}{20}{subsection.8.3}%
+\contentsline {subsubsection}{\numberline {8.3.1}Forward Euler Discretization}{20}{subsubsection.8.3.1}%
+\contentsline {subsubsection}{\numberline {8.3.2}Runge-Kutta 4 (RK4) Discretization}{20}{subsubsection.8.3.2}%
+\contentsline {paragraph}{State Jacobian $A_d$}{20}{section*.29}%
+\contentsline {paragraph}{Input Jacobian $B_d$}{21}{section*.30}%
