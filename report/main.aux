@@ -1,18 +1,17 @@
 \relax 
 \providecommand\hyper@newdestlabel[2]{}
-\providecommand*\HyPL@Entry[1]{}
-\providecommand\babel@aux[2]{}
+\providecommand\HyField@AuxAddToFields[1]{}
+\providecommand\HyField@AuxAddToCoFields[2]{}
+\providecommand \babel@aux [2]{\global \let \babel@toc \@gobbletwo }
 \@nameuse{bbl@beforestart}
-\HyPL@Entry{0<</S/D>>}
 \babel@aux{english}{}
-\HyPL@Entry{1<</S/D>>}
 \@writefile{toc}{\contentsline {section}{\numberline {1}Task 0: Problem Setup and Discretization}{5}{section.1}\protected@file@percent }
 \newlabel{sec:task0}{{1}{5}{Task 0: Problem Setup and Discretization}{section.1}{}}
 \@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Double Pendulum System with flexible link.}}{5}{figure.caption.4}\protected@file@percent }
 \providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
 \newlabel{fig:double_pendulum}{{1}{5}{Double Pendulum System with flexible link}{figure.caption.4}{}}
-\newlabel{eq:double_pendulum_model}{{1}{5}{Task 0: Problem Setup and Discretization}{equation.1.1}{}}
-\newlabel{eq:nonlinear_dynamics}{{2}{5}{Task 0: Problem Setup and Discretization}{equation.1.2}{}}
+\newlabel{eq:double_pendulum_model}{{1}{5}{Task 0: Problem Setup and Discretization}{equation.1}{}}
+\newlabel{eq:nonlinear_dynamics}{{2}{5}{Task 0: Problem Setup and Discretization}{equation.2}{}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.1}Discretization Methods}{5}{subsection.1.1}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.2}Analytic Jacobian Computation}{6}{subsection.1.2}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {2}Task 1: Equilibria and Terminal Cost}{7}{section.2}\protected@file@percent }
@@ -32,100 +31,112 @@
 \@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Reference Generation}{10}{subsection.3.1}\protected@file@percent }
 \newlabel{fig:ref_stepwise}{{6a}{10}{Stepwise Reference}{figure.caption.8}{}}
 \newlabel{sub@fig:ref_stepwise}{{a}{10}{Stepwise Reference}{figure.caption.8}{}}
-\newlabel{fig:ref_poly5}{{6b}{10}{Poly 5 Reference}{figure.caption.8}{}}
-\newlabel{sub@fig:ref_poly5}{{b}{10}{Poly 5 Reference}{figure.caption.8}{}}
 \@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Comparison of reference generation strategies.}}{10}{figure.caption.8}\protected@file@percent }
 \newlabel{fig:reference_comparison}{{6}{10}{Comparison of reference generation strategies}{figure.caption.8}{}}
+\newlabel{fig:ref_poly5}{{6b}{11}{Poly 5 Reference}{figure.caption.9}{}}
+\newlabel{sub@fig:ref_poly5}{{b}{11}{Poly 5 Reference}{figure.caption.9}{}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {3.1.1}Task Definitions}{11}{subsubsection.3.1.1}\protected@file@percent }
-\newlabel{fig:task_swingup}{{7a}{11}{Swing Up}{figure.caption.9}{}}
-\newlabel{sub@fig:task_swingup}{{a}{11}{Swing Up}{figure.caption.9}{}}
-\newlabel{fig:task_swingdown}{{7b}{11}{Swing Down}{figure.caption.9}{}}
-\newlabel{sub@fig:task_swingdown}{{b}{11}{Swing Down}{figure.caption.9}{}}
-\newlabel{fig:task_complex}{{7c}{11}{Complex Maneuver}{figure.caption.9}{}}
-\newlabel{sub@fig:task_complex}{{c}{11}{Complex Maneuver}{figure.caption.9}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Visualization of the defined control tasks.}}{11}{figure.caption.9}\protected@file@percent }
-\newlabel{fig:tasks}{{7}{11}{Visualization of the defined control tasks}{figure.caption.9}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Performance Analysis: Stepwise vs. Polynomial}{11}{subsection.3.2}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Newton's method applied to Swing Up using Stepwise reference. Note the control discontinuity.}}{12}{figure.caption.10}\protected@file@percent }
-\newlabel{fig:newton_stepwise}{{8}{12}{Newton's method applied to Swing Up using Stepwise reference. Note the control discontinuity}{figure.caption.10}{}}
-\newlabel{fig:newton_poly_up}{{9a}{13}{Poly 5 applied to Swing Up}{figure.caption.11}{}}
-\newlabel{sub@fig:newton_poly_up}{{a}{13}{Poly 5 applied to Swing Up}{figure.caption.11}{}}
-\newlabel{fig:newton_poly_down}{{9b}{13}{Poly 5 applied to Swing Down}{figure.caption.11}{}}
-\newlabel{sub@fig:newton_poly_down}{{b}{13}{Poly 5 applied to Swing Down}{figure.caption.11}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces Optimization results using 5th-order polynomial references.}}{13}{figure.caption.11}\protected@file@percent }
-\newlabel{fig:newton_poly_results}{{9}{13}{Optimization results using 5th-order polynomial references}{figure.caption.11}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Optimization Challenges}{13}{subsection.3.3}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces Illustration of the "Local Minimum Trap" where the solver converges to a suboptimal swing.}}{15}{figure.caption.12}\protected@file@percent }
-\newlabel{fig:local_minima}{{10}{15}{Illustration of the "Local Minimum Trap" where the solver converges to a suboptimal swing}{figure.caption.12}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}Proposed Solution: Dynamic Horizon Extension}{15}{subsection.3.4}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.4.1}Theoretical Justification}{15}{subsubsection.3.4.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.4.2}Algorithm Implementation}{16}{subsubsection.3.4.2}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {11}{\ignorespaces Evolution of the trajectory during the Dynamic Horizon Extension process.}}{17}{figure.caption.13}\protected@file@percent }
-\newlabel{fig:horizon_extension}{{11}{17}{Evolution of the trajectory during the Dynamic Horizon Extension process}{figure.caption.13}{}}
-\@writefile{toc}{\contentsline {section}{\numberline {4}Task 3: Trajectory Tracking via LQR}{18}{section.4}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Linear Time-Varying (LTV) LQR}{18}{subsection.4.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Implementation Details}{18}{subsection.4.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Simulation Results}{19}{subsection.4.3}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {12}{\ignorespaces Trajectory tracking on a downward maneuver}}{19}{figure.caption.14}\protected@file@percent }
-\newlabel{fig:custom5_LQR_signal}{{12}{19}{Trajectory tracking on a downward maneuver}{figure.caption.14}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {13}{\ignorespaces Error analysis during LQR tracking of downward maneuver}}{20}{figure.caption.15}\protected@file@percent }
-\newlabel{fig:custom5_LQR_error}{{13}{20}{Error analysis during LQR tracking of downward maneuver}{figure.caption.15}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {14}{\ignorespaces Trajectory tracking on a swing-up maneuver}}{21}{figure.caption.16}\protected@file@percent }
-\newlabel{fig:swing_up_LQR_signal}{{14}{21}{Trajectory tracking on a swing-up maneuver}{figure.caption.16}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {15}{\ignorespaces Error analysis during LQR tracking}}{22}{figure.caption.17}\protected@file@percent }
-\newlabel{fig:swing_up_LQR_error}{{15}{22}{Error analysis during LQR tracking}{figure.caption.17}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {16}{\ignorespaces Trajectory tracking on a hold maneuver}}{23}{figure.caption.18}\protected@file@percent }
-\newlabel{fig:low_diagonal_hold_LQR_signal}{{16}{23}{Trajectory tracking on a hold maneuver}{figure.caption.18}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {17}{\ignorespaces Error analysis during LQR tracking}}{24}{figure.caption.19}\protected@file@percent }
-\newlabel{fig:low_diagonal_hold_LQR_error}{{17}{24}{Error analysis during LQR tracking}{figure.caption.19}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {18}{\ignorespaces Trajectory tracking on a elbow up maneuver}}{25}{figure.caption.20}\protected@file@percent }
-\newlabel{fig:elbow_up_hold_LQR_signal}{{18}{25}{Trajectory tracking on a elbow up maneuver}{figure.caption.20}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {19}{\ignorespaces Error analysis during LQR tracking}}{26}{figure.caption.21}\protected@file@percent }
-\newlabel{fig:elbow_up_hold_LQR_error}{{19}{26}{Error analysis during LQR tracking}{figure.caption.21}{}}
-\@writefile{toc}{\contentsline {section}{\numberline {5}Task 4: Trajectory Tracking via MPC}{27}{section.5}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}MPC Formulation}{27}{subsection.5.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Key Features}{27}{subsection.5.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.3}Simulation Results}{27}{subsection.5.3}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {20}{\ignorespaces Trajectory tracking on a dive maneuver}}{28}{figure.caption.22}\protected@file@percent }
-\newlabel{fig:the_dive_MPC_signal}{{20}{28}{Trajectory tracking on a dive maneuver}{figure.caption.22}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {21}{\ignorespaces Error analysis during MPC tracking of dive maneuver}}{29}{figure.caption.23}\protected@file@percent }
-\newlabel{fig:the_dive_MPC_error}{{21}{29}{Error analysis during MPC tracking of dive maneuver}{figure.caption.23}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {22}{\ignorespaces Trajectory tracking on a swing up maneuver}}{30}{figure.caption.24}\protected@file@percent }
-\newlabel{fig:swing_up_MPC_signal}{{22}{30}{Trajectory tracking on a swing up maneuver}{figure.caption.24}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {23}{\ignorespaces Error analysis during MPC tracking of swing up maneuver}}{31}{figure.caption.25}\protected@file@percent }
-\newlabel{fig:swing_up_MPC_error}{{23}{31}{Error analysis during MPC tracking of swing up maneuver}{figure.caption.25}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {24}{\ignorespaces Trajectory tracking on a elbow up maneuver}}{32}{figure.caption.26}\protected@file@percent }
-\newlabel{fig:elbow_up_MPC_signal}{{24}{32}{Trajectory tracking on a elbow up maneuver}{figure.caption.26}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {25}{\ignorespaces Error analysis during MPC tracking of a elbow maneuver}}{33}{figure.caption.27}\protected@file@percent }
-\newlabel{fig:elbow_up_MPC_error}{{25}{33}{Error analysis during MPC tracking of a elbow maneuver}{figure.caption.27}{}}
-\@writefile{toc}{\contentsline {section}{\numberline {6}Task 5: Animation}{34}{section.6}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {6.1}Visualization}{34}{subsection.6.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {7}Conclusion}{35}{section.7}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {8}Appendix}{36}{section.8}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {8.1}Models matrices and parameters}{36}{subsection.8.1}\protected@file@percent }
-\newlabel{app:Models_matrices_and_parameters}{{8.1}{36}{Models matrices and parameters}{subsection.8.1}{}}
-\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Model Parameters (Set 2)}}{36}{table.caption.28}\protected@file@percent }
-\newlabel{tab:model_parameters}{{1}{36}{Model Parameters (Set 2)}{table.caption.28}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {8.2}Analytical Derivation of the Jacobian}{36}{subsection.8.2}\protected@file@percent }
-\newlabel{app:analytic_jacobian_derivation}{{8.2}{36}{Analytical Derivation of the Jacobian}{subsection.8.2}{}}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {8.2.1}State-Space Formulation}{36}{subsubsection.8.2.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {8.2.2}Block $A_{22}$: Partial Derivative w.r.t. Velocities}{37}{subsubsection.8.2.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {8.2.3}Block $A_{21}$: Partial Derivative w.r.t. Positions}{37}{subsubsection.8.2.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {paragraph}{Term 1: Derivative of Inverse Mass Matrix}{37}{section*.29}\protected@file@percent }
-\@writefile{toc}{\contentsline {paragraph}{Term 2: Derivative of Forces}{37}{section*.30}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {8.2.4}Jacobian Matrix B}{37}{subsubsection.8.2.4}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {8.2.5}Explicit Derivative Matrices}{37}{subsubsection.8.2.5}\protected@file@percent }
-\@writefile{toc}{\contentsline {paragraph}{Gravity Gradient}{37}{section*.31}\protected@file@percent }
-\@writefile{toc}{\contentsline {paragraph}{Coriolis Velocity Gradient}{37}{section*.32}\protected@file@percent }
-\@writefile{toc}{\contentsline {paragraph}{Mass Matrix Gradient}{37}{section*.33}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {8.3}Derivation of Discrete-Time Jacobians}{38}{subsection.8.3}\protected@file@percent }
-\newlabel{app:discretization_methods}{{8.3}{38}{Derivation of Discrete-Time Jacobians}{subsection.8.3}{}}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {8.3.1}Forward Euler Discretization}{38}{subsubsection.8.3.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {8.3.2}Runge-Kutta 4 (RK4) Discretization}{38}{subsubsection.8.3.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {paragraph}{State Jacobian $A_d$}{38}{section*.34}\protected@file@percent }
-\newlabel{eq:dk1_dx}{{29}{38}{State Jacobian \texorpdfstring {$A_d$}{Ad}}{equation.8.29}{}}
-\@writefile{toc}{\contentsline {paragraph}{Input Jacobian $B_d$}{39}{section*.35}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {8.4}Newton Method with Dynamic Horizon Extension algorithm}{39}{subsection.8.4}\protected@file@percent }
-\@writefile{loa}{\contentsline {algorithm}{\numberline {1}{\ignorespaces Newton Method with Dynamic Horizon Extension}}{40}{algorithm.1}\protected@file@percent }
-\newlabel{alg:newton_extension}{{1}{40}{Newton Method with Dynamic Horizon Extension}{algorithm.1}{}}
-\gdef \@abspage@last{41}
+\newlabel{fig:task_elbowup}{{7a}{12}{Elbow Up}{figure.caption.10}{}}
+\newlabel{sub@fig:task_elbowup}{{a}{12}{Elbow Up}{figure.caption.10}{}}
+\newlabel{fig:task_swingup}{{7b}{12}{Swing Up}{figure.caption.10}{}}
+\newlabel{sub@fig:task_swingup}{{b}{12}{Swing Up}{figure.caption.10}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Visualization of the defined control tasks and their target equilibria.}}{12}{figure.caption.10}\protected@file@percent }
+\newlabel{fig:task_swingdown}{{8a}{13}{Swing Down}{figure.caption.11}{}}
+\newlabel{sub@fig:task_swingdown}{{a}{13}{Swing Down}{figure.caption.11}{}}
+\newlabel{fig:task_complex}{{8b}{13}{Complex Maneuver}{figure.caption.11}{}}
+\newlabel{sub@fig:task_complex}{{b}{13}{Complex Maneuver}{figure.caption.11}{}}
+\newlabel{fig:tasks}{{\caption@xref {fig:tasks}{ on input line 82}}{13}{Task Definitions}{figure.caption.11}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Performance Analysis: Stepwise vs. Polynomial}{13}{subsection.3.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces Newton's method applied to Elbow Up using Stepwise reference. Note the control discontinuity.}}{14}{figure.caption.12}\protected@file@percent }
+\newlabel{fig:newton_stepwise}{{9}{14}{Newton's method applied to Elbow Up using Stepwise reference. Note the control discontinuity}{figure.caption.12}{}}
+\newlabel{fig:newton_poly_up}{{10a}{15}{Poly 5 applied to Swing Up}{figure.caption.13}{}}
+\newlabel{sub@fig:newton_poly_up}{{a}{15}{Poly 5 applied to Swing Up}{figure.caption.13}{}}
+\newlabel{fig:newton_poly_down}{{10b}{15}{Poly 5 applied to Swing Down}{figure.caption.13}{}}
+\newlabel{sub@fig:newton_poly_down}{{b}{15}{Poly 5 applied to Swing Down}{figure.caption.13}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces Optimization results using 5th-order polynomial references.}}{15}{figure.caption.13}\protected@file@percent }
+\newlabel{fig:newton_poly_results}{{10}{15}{Optimization results using 5th-order polynomial references}{figure.caption.13}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Optimization Challenges}{16}{subsection.3.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.3.1}Visual Analysis of the Local Minimum Trap}{16}{subsubsection.3.3.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {11}{\ignorespaces Illustration of the "Local Minimum Trap" where the solver converges to a suboptimal trajectory rather than the target equilibrium.}}{17}{figure.caption.14}\protected@file@percent }
+\newlabel{fig:optimal_trajectory_suboptimal}{{11}{17}{Illustration of the "Local Minimum Trap" where the solver converges to a suboptimal trajectory rather than the target equilibrium}{figure.caption.14}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {12}{\ignorespaces Cost function evolution during failure. The cost converges to a steady value, concealing the failure to reach the target.}}{18}{figure.caption.15}\protected@file@percent }
+\newlabel{fig:cost_function_complex}{{12}{18}{Cost function evolution during failure. The cost converges to a steady value, concealing the failure to reach the target}{figure.caption.15}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {13}{\ignorespaces Descent direction norm. The algorithm mathematically converges (norm $\to 0$), but to an incorrect solution.}}{18}{figure.caption.16}\protected@file@percent }
+\newlabel{fig:descent_complex}{{13}{18}{Descent direction norm. The algorithm mathematically converges (norm $\to 0$), but to an incorrect solution}{figure.caption.16}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}Proposed Solution: Dynamic Horizon Extension}{18}{subsection.3.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.4.1}Theoretical Justification}{19}{subsubsection.3.4.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.4.2}Algorithm Implementation}{19}{subsubsection.3.4.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.4.3}Numerical Analysis and Validation}{19}{subsubsection.3.4.3}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {14}{\ignorespaces Evolution of the trajectory during the Dynamic Horizon Extension process. The system incrementally "learns" the complex maneuver.}}{20}{figure.caption.17}\protected@file@percent }
+\newlabel{fig:horizon_extension}{{14}{20}{Evolution of the trajectory during the Dynamic Horizon Extension process. The system incrementally "learns" the complex maneuver}{figure.caption.17}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {15}{\ignorespaces Step-wise evolution of the cost function. Each "step" corresponds to a horizon extension.}}{21}{figure.caption.18}\protected@file@percent }
+\newlabel{fig:horizon_extension_cost}{{15}{21}{Step-wise evolution of the cost function. Each "step" corresponds to a horizon extension}{figure.caption.18}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {16}{\ignorespaces Norm of the descent direction. Spikes indicate the start of a new extension phase, followed by rapid convergence.}}{21}{figure.caption.19}\protected@file@percent }
+\newlabel{fig:horizon_extension_descent}{{16}{21}{Norm of the descent direction. Spikes indicate the start of a new extension phase, followed by rapid convergence}{figure.caption.19}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Task 3: Trajectory Tracking via LQR}{23}{section.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Linear Time-Varying (LTV) LQR}{23}{subsection.4.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Implementation Details}{23}{subsection.4.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Simulation Results}{24}{subsection.4.3}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {17}{\ignorespaces Trajectory tracking on a downward maneuver}}{24}{figure.caption.20}\protected@file@percent }
+\newlabel{fig:custom5_LQR_signal}{{17}{24}{Trajectory tracking on a downward maneuver}{figure.caption.20}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {18}{\ignorespaces Error analysis during LQR tracking of downward maneuver}}{25}{figure.caption.21}\protected@file@percent }
+\newlabel{fig:custom5_LQR_error}{{18}{25}{Error analysis during LQR tracking of downward maneuver}{figure.caption.21}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {19}{\ignorespaces Trajectory tracking on a swing-up maneuver}}{26}{figure.caption.22}\protected@file@percent }
+\newlabel{fig:swing_up_LQR_signal}{{19}{26}{Trajectory tracking on a swing-up maneuver}{figure.caption.22}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {20}{\ignorespaces Error analysis during LQR tracking}}{27}{figure.caption.23}\protected@file@percent }
+\newlabel{fig:swing_up_LQR_error}{{20}{27}{Error analysis during LQR tracking}{figure.caption.23}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {21}{\ignorespaces Trajectory tracking on a hold maneuver}}{28}{figure.caption.24}\protected@file@percent }
+\newlabel{fig:low_diagonal_hold_LQR_signal}{{21}{28}{Trajectory tracking on a hold maneuver}{figure.caption.24}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {22}{\ignorespaces Error analysis during LQR tracking}}{29}{figure.caption.25}\protected@file@percent }
+\newlabel{fig:low_diagonal_hold_LQR_error}{{22}{29}{Error analysis during LQR tracking}{figure.caption.25}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {23}{\ignorespaces Trajectory tracking on a elbow up maneuver}}{30}{figure.caption.26}\protected@file@percent }
+\newlabel{fig:elbow_up_hold_LQR_signal}{{23}{30}{Trajectory tracking on a elbow up maneuver}{figure.caption.26}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {24}{\ignorespaces Error analysis during LQR tracking}}{31}{figure.caption.27}\protected@file@percent }
+\newlabel{fig:elbow_up_hold_LQR_error}{{24}{31}{Error analysis during LQR tracking}{figure.caption.27}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Task 4: Trajectory Tracking via MPC}{32}{section.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}MPC Formulation}{32}{subsection.5.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Key Features}{32}{subsection.5.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.3}Simulation Results}{32}{subsection.5.3}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {25}{\ignorespaces Trajectory tracking on a dive maneuver}}{33}{figure.caption.28}\protected@file@percent }
+\newlabel{fig:the_dive_MPC_signal}{{25}{33}{Trajectory tracking on a dive maneuver}{figure.caption.28}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {26}{\ignorespaces Error analysis during MPC tracking of dive maneuver}}{34}{figure.caption.29}\protected@file@percent }
+\newlabel{fig:the_dive_MPC_error}{{26}{34}{Error analysis during MPC tracking of dive maneuver}{figure.caption.29}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {27}{\ignorespaces Trajectory tracking on a swing up maneuver}}{35}{figure.caption.30}\protected@file@percent }
+\newlabel{fig:swing_up_MPC_signal}{{27}{35}{Trajectory tracking on a swing up maneuver}{figure.caption.30}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {28}{\ignorespaces Error analysis during MPC tracking of swing up maneuver}}{36}{figure.caption.31}\protected@file@percent }
+\newlabel{fig:swing_up_MPC_error}{{28}{36}{Error analysis during MPC tracking of swing up maneuver}{figure.caption.31}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {29}{\ignorespaces Trajectory tracking on a elbow up maneuver}}{37}{figure.caption.32}\protected@file@percent }
+\newlabel{fig:elbow_up_MPC_signal}{{29}{37}{Trajectory tracking on a elbow up maneuver}{figure.caption.32}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {30}{\ignorespaces Error analysis during MPC tracking of a elbow maneuver}}{38}{figure.caption.33}\protected@file@percent }
+\newlabel{fig:elbow_up_MPC_error}{{30}{38}{Error analysis during MPC tracking of a elbow maneuver}{figure.caption.33}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {6}Task 5: Animation}{39}{section.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.1}Visualization}{39}{subsection.6.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {7}Conclusion}{40}{section.7}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {8}Appendix}{41}{section.8}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {8.1}Models matrices and parameters}{41}{subsection.8.1}\protected@file@percent }
+\newlabel{app:Models_matrices_and_parameters}{{8.1}{41}{Models matrices and parameters}{subsection.8.1}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Model Parameters (Set 2)}}{41}{table.caption.34}\protected@file@percent }
+\newlabel{tab:model_parameters}{{1}{41}{Model Parameters (Set 2)}{table.caption.34}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {8.2}Analytical Derivation of the Jacobian}{41}{subsection.8.2}\protected@file@percent }
+\newlabel{app:analytic_jacobian_derivation}{{8.2}{41}{Analytical Derivation of the Jacobian}{subsection.8.2}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {8.2.1}State-Space Formulation}{41}{subsubsection.8.2.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {8.2.2}Block $A_{22}$: Partial Derivative w.r.t. Velocities}{42}{subsubsection.8.2.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {8.2.3}Block $A_{21}$: Partial Derivative w.r.t. Positions}{42}{subsubsection.8.2.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Term 1: Derivative of Inverse Mass Matrix}{42}{section*.35}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Term 2: Derivative of Forces}{42}{section*.36}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {8.2.4}Jacobian Matrix B}{42}{subsubsection.8.2.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {8.2.5}Explicit Derivative Matrices}{42}{subsubsection.8.2.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Gravity Gradient}{42}{section*.37}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Coriolis Velocity Gradient}{42}{section*.38}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Mass Matrix Gradient}{42}{section*.39}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {8.3}Derivation of Discrete-Time Jacobians}{43}{subsection.8.3}\protected@file@percent }
+\newlabel{app:discretization_methods}{{8.3}{43}{Derivation of Discrete-Time Jacobians}{subsection.8.3}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {8.3.1}Forward Euler Discretization}{43}{subsubsection.8.3.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {8.3.2}Runge-Kutta 4 (RK4) Discretization}{43}{subsubsection.8.3.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{State Jacobian $A_d$}{43}{section*.40}\protected@file@percent }
+\newlabel{eq:dk1_dx}{{28}{43}{State Jacobian \texorpdfstring {$A_d$}{Ad}}{equation.28}{}}
+\@writefile{toc}{\contentsline {paragraph}{Input Jacobian $B_d$}{44}{section*.41}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {8.4}Newton Method with Dynamic Horizon Extension algorithm}{44}{subsection.8.4}\protected@file@percent }
+\@writefile{loa}{\contentsline {algorithm}{\numberline {1}{\ignorespaces Newton Method with Dynamic Horizon Extension}}{45}{algorithm.1}\protected@file@percent }
+\newlabel{alg:newton_extension}{{1}{45}{Newton Method with Dynamic Horizon Extension}{algorithm.1}{}}
+\gdef \@abspage@last{46}
