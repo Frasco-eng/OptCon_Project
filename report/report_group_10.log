@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.15)  8 JAN 2026 21:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.15)  8 JAN 2026 22:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -646,14 +646,14 @@ Package hyperref Info: Link coloring OFF on input line 97.
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 97.
-<figs/logo_unibo.png, id=179, 766.865pt x 401.5pt>
-File: figs/logo_unibo.png Graphic file (type png)
-<use figs/logo_unibo.png>
-Package pdftex.def Info: figs/logo_unibo.png  used on input line 110.
+<figs/misc/logo_unibo.png, id=179, 766.865pt x 401.5pt>
+File: figs/misc/logo_unibo.png Graphic file (type png)
+<use figs/misc/logo_unibo.png>
+Package pdftex.def Info: figs/misc/logo_unibo.png  used on input line 110.
 (pdftex.def)             Requested size: 207.05632pt x 108.40643pt.
  [1
 
-{C:/Users/cenni/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./figs/logo_unibo.png (PNG copy)>] (report_group_10.toc
+{C:/Users/cenni/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./figs/misc/logo_unibo.png (PNG copy)>] (report_group_10.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
  (C:\Users\cenni\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -692,27 +692,27 @@ File: figs/code/traj_gen_newton/low_diagonal_hold/equilibrium_manifold_2d.png Gr
 Package pdftex.def Info: figs/code/traj_gen_newton/low_diagonal_hold/equilibrium_manifold_2d.png  used on input line 52.
 (pdftex.def)             Requested size: 455.24411pt x 155.06017pt.
  [7 <./figs/code/traj_gen_newton/low_diagonal_hold/equilibrium_manifold_3d.png> <./figs/code/traj_gen_newton/low_diagonal_hold/equilibrium_manifold_2d.png>] [8] [9]
-<figs/branch5/traj_gen_newton/inverted_hand_off/armijo/armijo_iteration_150.png, id=417, 392.667pt x 339.9099pt>
-File: figs/branch5/traj_gen_newton/inverted_hand_off/armijo/armijo_iteration_150.png Graphic file (type png)
-<use figs/branch5/traj_gen_newton/inverted_hand_off/armijo/armijo_iteration_150.png>
-Package pdftex.def Info: figs/branch5/traj_gen_newton/inverted_hand_off/armijo/armijo_iteration_150.png  used on input line 99.
-(pdftex.def)             Requested size: 200.35849pt x 173.43991pt.
-<figs/branch5/traj_gen_newton/inverted_hand_off/armijo/armijo_iteration_170.png, id=418, 392.667pt x 339.9099pt>
-File: figs/branch5/traj_gen_newton/inverted_hand_off/armijo/armijo_iteration_170.png Graphic file (type png)
-<use figs/branch5/traj_gen_newton/inverted_hand_off/armijo/armijo_iteration_170.png>
-Package pdftex.def Info: figs/branch5/traj_gen_newton/inverted_hand_off/armijo/armijo_iteration_170.png  used on input line 106.
-(pdftex.def)             Requested size: 200.35849pt x 173.43991pt.
-<figs/branch5/traj_gen_newton/complex_maneuver/armijo/armijo_iteration_0.png, id=419, 408.5664pt x 329.0694pt>
-File: figs/branch5/traj_gen_newton/complex_maneuver/armijo/armijo_iteration_0.png Graphic file (type png)
-<use figs/branch5/traj_gen_newton/complex_maneuver/armijo/armijo_iteration_0.png>
-Package pdftex.def Info: figs/branch5/traj_gen_newton/complex_maneuver/armijo/armijo_iteration_0.png  used on input line 118.
-(pdftex.def)             Requested size: 200.35849pt x 161.37093pt.
-<figs/branch5/traj_gen_newton/complex_maneuver/armijo/armijo_iteration_30.png, id=420, 392.667pt x 339.9099pt>
-File: figs/branch5/traj_gen_newton/complex_maneuver/armijo/armijo_iteration_30.png Graphic file (type png)
-<use figs/branch5/traj_gen_newton/complex_maneuver/armijo/armijo_iteration_30.png>
-Package pdftex.def Info: figs/branch5/traj_gen_newton/complex_maneuver/armijo/armijo_iteration_30.png  used on input line 125.
-(pdftex.def)             Requested size: 200.35849pt x 173.43991pt.
- [10 <./figs/branch5/traj_gen_newton/inverted_hand_off/armijo/armijo_iteration_150.png> <./figs/branch5/traj_gen_newton/inverted_hand_off/armijo/armijo_iteration_170.png> <./figs/branch5/traj_gen_newton/complex_maneuver/armijo/armijo_iteration_0.png> <./figs/branch5/traj_gen_newton/complex_maneuver/armijo/armijo_iteration_30.png>]) (sections/04_section3.tex
+<figs/code/traj_gen_newton/swing_down/armijo/armijo_iteration_50.png, id=417, 405.4347pt x 329.0694pt>
+File: figs/code/traj_gen_newton/swing_down/armijo/armijo_iteration_50.png Graphic file (type png)
+<use figs/code/traj_gen_newton/swing_down/armijo/armijo_iteration_50.png>
+Package pdftex.def Info: figs/code/traj_gen_newton/swing_down/armijo/armijo_iteration_50.png  used on input line 99.
+(pdftex.def)             Requested size: 200.35849pt x 162.6212pt.
+<figs/code/traj_gen_newton/swing_down/armijo/armijo_iteration_215.png, id=418, 405.4347pt x 329.0694pt>
+File: figs/code/traj_gen_newton/swing_down/armijo/armijo_iteration_215.png Graphic file (type png)
+<use figs/code/traj_gen_newton/swing_down/armijo/armijo_iteration_215.png>
+Package pdftex.def Info: figs/code/traj_gen_newton/swing_down/armijo/armijo_iteration_215.png  used on input line 106.
+(pdftex.def)             Requested size: 200.35849pt x 162.6212pt.
+<figs/code/traj_gen_newton/swing_up/armijo/armijo_iteration_0.png, id=419, 426.6339pt x 329.0694pt>
+File: figs/code/traj_gen_newton/swing_up/armijo/armijo_iteration_0.png Graphic file (type png)
+<use figs/code/traj_gen_newton/swing_up/armijo/armijo_iteration_0.png>
+Package pdftex.def Info: figs/code/traj_gen_newton/swing_up/armijo/armijo_iteration_0.png  used on input line 118.
+(pdftex.def)             Requested size: 200.35849pt x 154.54211pt.
+<figs/code/traj_gen_newton/swing_up/armijo/armijo_iteration_220.png, id=420, 395.7987pt x 339.9099pt>
+File: figs/code/traj_gen_newton/swing_up/armijo/armijo_iteration_220.png Graphic file (type png)
+<use figs/code/traj_gen_newton/swing_up/armijo/armijo_iteration_220.png>
+Package pdftex.def Info: figs/code/traj_gen_newton/swing_up/armijo/armijo_iteration_220.png  used on input line 125.
+(pdftex.def)             Requested size: 200.35849pt x 172.06546pt.
+ [10 <./figs/code/traj_gen_newton/swing_down/armijo/armijo_iteration_50.png> <./figs/code/traj_gen_newton/swing_down/armijo/armijo_iteration_215.png> <./figs/code/traj_gen_newton/swing_up/armijo/armijo_iteration_0.png> <./figs/code/traj_gen_newton/swing_up/armijo/armijo_iteration_220.png>]) (sections/04_section3.tex
 <figs/misc/reference_trajectory.png, id=429, 514.3215pt x 422.7795pt>
 File: figs/misc/reference_trajectory.png Graphic file (type png)
 <use figs/misc/reference_trajectory.png>
@@ -727,218 +727,215 @@ Package pdftex.def Info: figs/code/traj_gen_newton/elbow_up/reference_trajectory
 <figs/code/traj_gen_newton/elbow_up/double_pendulum_envelope.png, id=438, 722.7pt x 578.16pt>
 File: figs/code/traj_gen_newton/elbow_up/double_pendulum_envelope.png Graphic file (type png)
 <use figs/code/traj_gen_newton/elbow_up/double_pendulum_envelope.png>
-Package pdftex.def Info: figs/code/traj_gen_newton/elbow_up/double_pendulum_envelope.png  used on input line 52.
+Package pdftex.def Info: figs/code/traj_gen_newton/elbow_up/double_pendulum_envelope.png  used on input line 53.
 (pdftex.def)             Requested size: 341.43307pt x 273.14676pt.
-<figs/code/traj_gen_newton/swing_up/double_pendulum_envelope.png, id=439, 722.7pt x 578.16pt>
+ [12 <./figs/code/traj_gen_newton/elbow_up/reference_trajectory.png>]
+<figs/code/traj_gen_newton/swing_up/double_pendulum_envelope.png, id=446, 722.7pt x 578.16pt>
 File: figs/code/traj_gen_newton/swing_up/double_pendulum_envelope.png Graphic file (type png)
 <use figs/code/traj_gen_newton/swing_up/double_pendulum_envelope.png>
-Package pdftex.def Info: figs/code/traj_gen_newton/swing_up/double_pendulum_envelope.png  used on input line 59.
+Package pdftex.def Info: figs/code/traj_gen_newton/swing_up/double_pendulum_envelope.png  used on input line 60.
 (pdftex.def)             Requested size: 341.43307pt x 273.14676pt.
- [12 <./figs/code/traj_gen_newton/elbow_up/reference_trajectory.png> <./figs/code/traj_gen_newton/elbow_up/double_pendulum_envelope.png>]
-<figs/code/traj_gen_newton/swing_down/double_pendulum_envelope.png, id=448, 722.7pt x 578.16pt>
+<figs/code/traj_gen_newton/swing_down/double_pendulum_envelope.png, id=447, 722.7pt x 578.16pt>
 File: figs/code/traj_gen_newton/swing_down/double_pendulum_envelope.png Graphic file (type png)
 <use figs/code/traj_gen_newton/swing_down/double_pendulum_envelope.png>
-Package pdftex.def Info: figs/code/traj_gen_newton/swing_down/double_pendulum_envelope.png  used on input line 66.
+Package pdftex.def Info: figs/code/traj_gen_newton/swing_down/double_pendulum_envelope.png  used on input line 67.
 (pdftex.def)             Requested size: 341.43307pt x 273.14676pt.
-<figs/code/traj_gen_newton/complex_maneuver/double_pendulum_envelope.png, id=449, 722.7pt x 578.16pt>
+ [13 <./figs/code/traj_gen_newton/elbow_up/double_pendulum_envelope.png> <./figs/code/traj_gen_newton/swing_up/double_pendulum_envelope.png>]
+<figs/code/traj_gen_newton/complex_maneuver/double_pendulum_envelope.png, id=454, 722.7pt x 578.16pt>
 File: figs/code/traj_gen_newton/complex_maneuver/double_pendulum_envelope.png Graphic file (type png)
 <use figs/code/traj_gen_newton/complex_maneuver/double_pendulum_envelope.png>
-Package pdftex.def Info: figs/code/traj_gen_newton/complex_maneuver/double_pendulum_envelope.png  used on input line 73.
+Package pdftex.def Info: figs/code/traj_gen_newton/complex_maneuver/double_pendulum_envelope.png  used on input line 74.
 (pdftex.def)             Requested size: 341.43307pt x 273.14676pt.
- [13 <./figs/code/traj_gen_newton/swing_up/double_pendulum_envelope.png> <./figs/code/traj_gen_newton/swing_down/double_pendulum_envelope.png>]
-<figs/misc/trajectory_comparison_mid.png, id=457, 896.8707pt x 613.0905pt>
+ [14 <./figs/code/traj_gen_newton/swing_down/double_pendulum_envelope.png> <./figs/code/traj_gen_newton/complex_maneuver/double_pendulum_envelope.png>]
+<figs/misc/trajectory_comparison_mid.png, id=462, 896.8707pt x 613.0905pt>
 File: figs/misc/trajectory_comparison_mid.png Graphic file (type png)
 <use figs/misc/trajectory_comparison_mid.png>
-Package pdftex.def Info: figs/misc/trajectory_comparison_mid.png  used on input line 88.
+Package pdftex.def Info: figs/misc/trajectory_comparison_mid.png  used on input line 89.
 (pdftex.def)             Requested size: 364.19667pt x 248.9645pt.
- [14 <./figs/code/traj_gen_newton/complex_maneuver/double_pendulum_envelope.png>]
 <figs/code/traj_gen_newton/swing_up/trajectory_comparison_mid.png, id=463, 900.0024pt x 800.0289pt>
 File: figs/code/traj_gen_newton/swing_up/trajectory_comparison_mid.png Graphic file (type png)
 <use figs/code/traj_gen_newton/swing_up/trajectory_comparison_mid.png>
-Package pdftex.def Info: figs/code/traj_gen_newton/swing_up/trajectory_comparison_mid.png  used on input line 98.
+Package pdftex.def Info: figs/code/traj_gen_newton/swing_up/trajectory_comparison_mid.png  used on input line 99.
 (pdftex.def)             Requested size: 318.66948pt x 283.26149pt.
-<figs/code/traj_gen_newton/elbow_up/trajectory_comparison_mid.png, id=464, 900.0024pt x 800.0289pt>
+ [15 <./figs/misc/trajectory_comparison_mid.png>]
+<figs/code/traj_gen_newton/elbow_up/trajectory_comparison_mid.png, id=469, 900.0024pt x 800.0289pt>
 File: figs/code/traj_gen_newton/elbow_up/trajectory_comparison_mid.png Graphic file (type png)
 <use figs/code/traj_gen_newton/elbow_up/trajectory_comparison_mid.png>
-Package pdftex.def Info: figs/code/traj_gen_newton/elbow_up/trajectory_comparison_mid.png  used on input line 105.
+Package pdftex.def Info: figs/code/traj_gen_newton/elbow_up/trajectory_comparison_mid.png  used on input line 106.
 (pdftex.def)             Requested size: 318.66948pt x 283.26149pt.
- [15 <./figs/misc/trajectory_comparison_mid.png> <./figs/code/traj_gen_newton/swing_up/trajectory_comparison_mid.png>]
-<figs/code/traj_gen_newton/swing_down/trajectory_comparison_mid.png, id=471, 903.1341pt x 800.0289pt>
+<figs/code/traj_gen_newton/swing_down/trajectory_comparison_mid.png, id=470, 903.1341pt x 800.0289pt>
 File: figs/code/traj_gen_newton/swing_down/trajectory_comparison_mid.png Graphic file (type png)
 <use figs/code/traj_gen_newton/swing_down/trajectory_comparison_mid.png>
-Package pdftex.def Info: figs/code/traj_gen_newton/swing_down/trajectory_comparison_mid.png  used on input line 112.
+Package pdftex.def Info: figs/code/traj_gen_newton/swing_down/trajectory_comparison_mid.png  used on input line 113.
 (pdftex.def)             Requested size: 318.66948pt x 282.2849pt.
- [16 <./figs/code/traj_gen_newton/elbow_up/trajectory_comparison_mid.png> <./figs/code/traj_gen_newton/swing_down/trajectory_comparison_mid.png>] [17]
-<figs/code/traj_gen_newton/complex_maneuver/trajectory_comparison_mid.png, id=485, 903.1341pt x 800.0289pt>
+ [16 <./figs/code/traj_gen_newton/swing_up/trajectory_comparison_mid.png> <./figs/code/traj_gen_newton/elbow_up/trajectory_comparison_mid.png>] [17 <./figs/code/traj_gen_newton/swing_down/trajectory_comparison_mid.png>]
+<figs/code/traj_gen_newton/complex_maneuver/trajectory_comparison_mid.png, id=484, 903.1341pt x 800.0289pt>
 File: figs/code/traj_gen_newton/complex_maneuver/trajectory_comparison_mid.png Graphic file (type png)
 <use figs/code/traj_gen_newton/complex_maneuver/trajectory_comparison_mid.png>
-Package pdftex.def Info: figs/code/traj_gen_newton/complex_maneuver/trajectory_comparison_mid.png  used on input line 156.
+Package pdftex.def Info: figs/code/traj_gen_newton/complex_maneuver/trajectory_comparison_mid.png  used on input line 157.
 (pdftex.def)             Requested size: 364.19667pt x 322.61829pt.
-<figs/code/traj_gen_newton/complex_maneuver/cost_function.png, id=488, 636.6987pt x 401.3394pt>
+ [18]
+<figs/code/traj_gen_newton/complex_maneuver/cost_function.png, id=493, 636.6987pt x 401.3394pt>
 File: figs/code/traj_gen_newton/complex_maneuver/cost_function.png Graphic file (type png)
 <use figs/code/traj_gen_newton/complex_maneuver/cost_function.png>
-Package pdftex.def Info: figs/code/traj_gen_newton/complex_maneuver/cost_function.png  used on input line 165.
+Package pdftex.def Info: figs/code/traj_gen_newton/complex_maneuver/cost_function.png  used on input line 166.
 (pdftex.def)             Requested size: 364.19667pt x 229.56805pt.
- [18 <./figs/code/traj_gen_newton/complex_maneuver/trajectory_comparison_mid.png>]
-<figs/code/traj_gen_newton/complex_maneuver/descent_direction.png, id=495, 625.8582pt x 401.3394pt>
+ [19 <./figs/code/traj_gen_newton/complex_maneuver/trajectory_comparison_mid.png>]
+<figs/code/traj_gen_newton/complex_maneuver/descent_direction.png, id=499, 625.8582pt x 401.3394pt>
 File: figs/code/traj_gen_newton/complex_maneuver/descent_direction.png Graphic file (type png)
 <use figs/code/traj_gen_newton/complex_maneuver/descent_direction.png>
-Package pdftex.def Info: figs/code/traj_gen_newton/complex_maneuver/descent_direction.png  used on input line 172.
+Package pdftex.def Info: figs/code/traj_gen_newton/complex_maneuver/descent_direction.png  used on input line 173.
 (pdftex.def)             Requested size: 364.19667pt x 233.54861pt.
- [19 <./figs/code/traj_gen_newton/complex_maneuver/cost_function.png> <./figs/code/traj_gen_newton/complex_maneuver/descent_direction.png>]
-<figs/code/traj_gen_newton_extended/complex_maneuver/trajectory_comparison_phases.png, id=502, 908.4339pt x 800.9925pt>
+ [20 <./figs/code/traj_gen_newton/complex_maneuver/cost_function.png> <./figs/code/traj_gen_newton/complex_maneuver/descent_direction.png>]
+<figs/code/traj_gen_newton_extended/complex_maneuver/trajectory_comparison_phases.png, id=506, 908.4339pt x 800.9925pt>
 File: figs/code/traj_gen_newton_extended/complex_maneuver/trajectory_comparison_phases.png Graphic file (type png)
 <use figs/code/traj_gen_newton_extended/complex_maneuver/trajectory_comparison_phases.png>
-Package pdftex.def Info: figs/code/traj_gen_newton_extended/complex_maneuver/trajectory_comparison_phases.png  used on input line 203.
+Package pdftex.def Info: figs/code/traj_gen_newton_extended/complex_maneuver/trajectory_comparison_phases.png  used on input line 204.
 (pdftex.def)             Requested size: 455.24411pt x 401.41193pt.
- [20]
-<figs/code/traj_gen_newton_extended/complex_maneuver/cost_function.png, id=516, 619.8357pt x 401.3394pt>
+ [21]
+<figs/code/traj_gen_newton_extended/complex_maneuver/cost_function.png, id=520, 619.8357pt x 401.3394pt>
 File: figs/code/traj_gen_newton_extended/complex_maneuver/cost_function.png Graphic file (type png)
 <use figs/code/traj_gen_newton_extended/complex_maneuver/cost_function.png>
-Package pdftex.def Info: figs/code/traj_gen_newton_extended/complex_maneuver/cost_function.png  used on input line 212.
+Package pdftex.def Info: figs/code/traj_gen_newton_extended/complex_maneuver/cost_function.png  used on input line 213.
 (pdftex.def)             Requested size: 364.19667pt x 235.8206pt.
- [21 <./figs/code/traj_gen_newton_extended/complex_maneuver/trajectory_comparison_phases.png>]
-<figs/code/traj_gen_newton_extended/complex_maneuver/descent_direction.png, id=522, 625.8582pt x 401.3394pt>
+ [22 <./figs/code/traj_gen_newton_extended/complex_maneuver/trajectory_comparison_phases.png>]
+<figs/code/traj_gen_newton_extended/complex_maneuver/descent_direction.png, id=526, 625.8582pt x 401.3394pt>
 File: figs/code/traj_gen_newton_extended/complex_maneuver/descent_direction.png Graphic file (type png)
 <use figs/code/traj_gen_newton_extended/complex_maneuver/descent_direction.png>
-Package pdftex.def Info: figs/code/traj_gen_newton_extended/complex_maneuver/descent_direction.png  used on input line 219.
+Package pdftex.def Info: figs/code/traj_gen_newton_extended/complex_maneuver/descent_direction.png  used on input line 220.
 (pdftex.def)             Requested size: 364.19667pt x 233.54861pt.
- [22 <./figs/code/traj_gen_newton_extended/complex_maneuver/cost_function.png> <./figs/code/traj_gen_newton_extended/complex_maneuver/descent_direction.png>]
-<figs/code/traj_gen_newton_extended/swing_up/trajectory_comparison_phases.png, id=533, 898.7979pt x 800.9925pt>
+ [23 <./figs/code/traj_gen_newton_extended/complex_maneuver/cost_function.png> <./figs/code/traj_gen_newton_extended/complex_maneuver/descent_direction.png>]
+<figs/code/traj_gen_newton_extended/swing_up/trajectory_comparison_phases.png, id=537, 898.7979pt x 800.9925pt>
 File: figs/code/traj_gen_newton_extended/swing_up/trajectory_comparison_phases.png Graphic file (type png)
 <use figs/code/traj_gen_newton_extended/swing_up/trajectory_comparison_phases.png>
-Package pdftex.def Info: figs/code/traj_gen_newton_extended/swing_up/trajectory_comparison_phases.png  used on input line 234.
+Package pdftex.def Info: figs/code/traj_gen_newton_extended/swing_up/trajectory_comparison_phases.png  used on input line 235.
 (pdftex.def)             Requested size: 318.66948pt x 283.99377pt.
-<figs/code/traj_gen_newton_extended/elbow_up/trajectory_comparison_phases.png, id=534, 891.5709pt x 800.9925pt>
+<figs/code/traj_gen_newton_extended/elbow_up/trajectory_comparison_phases.png, id=538, 891.5709pt x 800.9925pt>
 File: figs/code/traj_gen_newton_extended/elbow_up/trajectory_comparison_phases.png Graphic file (type png)
 <use figs/code/traj_gen_newton_extended/elbow_up/trajectory_comparison_phases.png>
-Package pdftex.def Info: figs/code/traj_gen_newton_extended/elbow_up/trajectory_comparison_phases.png  used on input line 241.
+Package pdftex.def Info: figs/code/traj_gen_newton_extended/elbow_up/trajectory_comparison_phases.png  used on input line 242.
 (pdftex.def)             Requested size: 318.66948pt x 286.29153pt.
- [23 <./figs/code/traj_gen_newton_extended/swing_up/trajectory_comparison_phases.png>]
-<figs/code/traj_gen_newton_extended/swing_down/trajectory_comparison_phases.png, id=540, 900.0024pt x 800.9925pt>
+ [24 <./figs/code/traj_gen_newton_extended/swing_up/trajectory_comparison_phases.png>]
+<figs/code/traj_gen_newton_extended/swing_down/trajectory_comparison_phases.png, id=545, 900.0024pt x 800.9925pt>
 File: figs/code/traj_gen_newton_extended/swing_down/trajectory_comparison_phases.png Graphic file (type png)
 <use figs/code/traj_gen_newton_extended/swing_down/trajectory_comparison_phases.png>
-Package pdftex.def Info: figs/code/traj_gen_newton_extended/swing_down/trajectory_comparison_phases.png  used on input line 248.
+Package pdftex.def Info: figs/code/traj_gen_newton_extended/swing_down/trajectory_comparison_phases.png  used on input line 249.
 (pdftex.def)             Requested size: 318.66948pt x 283.60266pt.
- [24 <./figs/code/traj_gen_newton_extended/elbow_up/trajectory_comparison_phases.png> <./figs/code/traj_gen_newton_extended/swing_down/trajectory_comparison_phases.png>] [25]) (sections/05_section4.tex [26]
-<figs/code/traj_track_LQR_extended/swing_up/trajectory_comparison_LQR_Trajectory_Tracking.png, id=566, 1178.001pt x 986.7264pt>
+ [25 <./figs/code/traj_gen_newton_extended/elbow_up/trajectory_comparison_phases.png> <./figs/code/traj_gen_newton_extended/swing_down/trajectory_comparison_phases.png>] [26]) (sections/05_section4.tex [27]
+<figs/code/traj_track_LQR_extended/swing_up/trajectory_comparison_LQR_Trajectory_Tracking.png, id=570, 1178.001pt x 986.7264pt>
 File: figs/code/traj_track_LQR_extended/swing_up/trajectory_comparison_LQR_Trajectory_Tracking.png Graphic file (type png)
 <use figs/code/traj_track_LQR_extended/swing_up/trajectory_comparison_LQR_Trajectory_Tracking.png>
 Package pdftex.def Info: figs/code/traj_track_LQR_extended/swing_up/trajectory_comparison_LQR_Trajectory_Tracking.png  used on input line 44.
 (pdftex.def)             Requested size: 455.24411pt x 381.3287pt.
-<figs/code/traj_track_LQR_extended/swing_up/tracking_error_analysis.png, id=567, 850.377pt x 800.0289pt>
+<figs/code/traj_track_LQR_extended/swing_up/tracking_error_analysis.png, id=571, 850.377pt x 800.0289pt>
 File: figs/code/traj_track_LQR_extended/swing_up/tracking_error_analysis.png Graphic file (type png)
 <use figs/code/traj_track_LQR_extended/swing_up/tracking_error_analysis.png>
 Package pdftex.def Info: figs/code/traj_track_LQR_extended/swing_up/tracking_error_analysis.png  used on input line 51.
 (pdftex.def)             Requested size: 455.24411pt x 428.29811pt.
- [27 <./figs/code/traj_track_LQR_extended/swing_up/trajectory_comparison_LQR_Trajectory_Tracking.png>]
-<figs/code/traj_track_LQR_extended/swing_down/trajectory_comparison_LQR_Trajectory_Tracking.png, id=573, 1176.3147pt x 986.7264pt>
+ [28 <./figs/code/traj_track_LQR_extended/swing_up/trajectory_comparison_LQR_Trajectory_Tracking.png>]
+<figs/code/traj_track_LQR_extended/swing_down/trajectory_comparison_LQR_Trajectory_Tracking.png, id=577, 1176.3147pt x 986.7264pt>
 File: figs/code/traj_track_LQR_extended/swing_down/trajectory_comparison_LQR_Trajectory_Tracking.png Graphic file (type png)
 <use figs/code/traj_track_LQR_extended/swing_down/trajectory_comparison_LQR_Trajectory_Tracking.png>
 Package pdftex.def Info: figs/code/traj_track_LQR_extended/swing_down/trajectory_comparison_LQR_Trajectory_Tracking.png  used on input line 58.
 (pdftex.def)             Requested size: 455.24411pt x 381.87073pt.
- [28 <./figs/code/traj_track_LQR_extended/swing_up/tracking_error_analysis.png>]
-<figs/code/traj_track_LQR_extended/swing_down/tracking_error_analysis.png, id=579, 847.2453pt x 800.0289pt>
+ [29 <./figs/code/traj_track_LQR_extended/swing_up/tracking_error_analysis.png>]
+<figs/code/traj_track_LQR_extended/swing_down/tracking_error_analysis.png, id=583, 847.2453pt x 800.0289pt>
 File: figs/code/traj_track_LQR_extended/swing_down/tracking_error_analysis.png Graphic file (type png)
 <use figs/code/traj_track_LQR_extended/swing_down/tracking_error_analysis.png>
 Package pdftex.def Info: figs/code/traj_track_LQR_extended/swing_down/tracking_error_analysis.png  used on input line 65.
 (pdftex.def)             Requested size: 455.24411pt x 429.88507pt.
- [29 <./figs/code/traj_track_LQR_extended/swing_down/trajectory_comparison_LQR_Trajectory_Tracking.png>]
-<figs/code/traj_track_LQR_extended/elbow_up/trajectory_comparison_LQR_Trajectory_Tracking.png, id=585, 1171.0149pt x 986.7264pt>
+ [30 <./figs/code/traj_track_LQR_extended/swing_down/trajectory_comparison_LQR_Trajectory_Tracking.png>]
+<figs/code/traj_track_LQR_extended/elbow_up/trajectory_comparison_LQR_Trajectory_Tracking.png, id=590, 1171.0149pt x 986.7264pt>
 File: figs/code/traj_track_LQR_extended/elbow_up/trajectory_comparison_LQR_Trajectory_Tracking.png Graphic file (type png)
 <use figs/code/traj_track_LQR_extended/elbow_up/trajectory_comparison_LQR_Trajectory_Tracking.png>
 Package pdftex.def Info: figs/code/traj_track_LQR_extended/elbow_up/trajectory_comparison_LQR_Trajectory_Tracking.png  used on input line 72.
 (pdftex.def)             Requested size: 455.24411pt x 383.6022pt.
- [30 <./figs/code/traj_track_LQR_extended/swing_down/tracking_error_analysis.png>]
-<figs/code/traj_track_LQR_extended/elbow_up/tracking_error_analysis.png, id=592, 843.8727pt x 800.0289pt>
+ [31 <./figs/code/traj_track_LQR_extended/swing_down/tracking_error_analysis.png>]
+<figs/code/traj_track_LQR_extended/elbow_up/tracking_error_analysis.png, id=596, 843.8727pt x 800.0289pt>
 File: figs/code/traj_track_LQR_extended/elbow_up/tracking_error_analysis.png Graphic file (type png)
 <use figs/code/traj_track_LQR_extended/elbow_up/tracking_error_analysis.png>
 Package pdftex.def Info: figs/code/traj_track_LQR_extended/elbow_up/tracking_error_analysis.png  used on input line 79.
 (pdftex.def)             Requested size: 455.24411pt x 431.59412pt.
- [31 <./figs/code/traj_track_LQR_extended/elbow_up/trajectory_comparison_LQR_Trajectory_Tracking.png>]
-<figs/code/traj_track_LQR_extended/complex_maneuver/trajectory_comparison_LQR_Trajectory_Tracking.png, id=598, 1174.8693pt x 986.7264pt>
+ [32 <./figs/code/traj_track_LQR_extended/elbow_up/trajectory_comparison_LQR_Trajectory_Tracking.png>]
+<figs/code/traj_track_LQR_extended/complex_maneuver/trajectory_comparison_LQR_Trajectory_Tracking.png, id=602, 1174.8693pt x 986.7264pt>
 File: figs/code/traj_track_LQR_extended/complex_maneuver/trajectory_comparison_LQR_Trajectory_Tracking.png Graphic file (type png)
 <use figs/code/traj_track_LQR_extended/complex_maneuver/trajectory_comparison_LQR_Trajectory_Tracking.png>
 Package pdftex.def Info: figs/code/traj_track_LQR_extended/complex_maneuver/trajectory_comparison_LQR_Trajectory_Tracking.png  used on input line 87.
 (pdftex.def)             Requested size: 455.24411pt x 382.33748pt.
- [32 <./figs/code/traj_track_LQR_extended/elbow_up/tracking_error_analysis.png>]
-<figs/code/traj_track_LQR_extended/complex_maneuver/tracking_error_analysis.png, id=604, 850.377pt x 800.0289pt>
+ [33 <./figs/code/traj_track_LQR_extended/elbow_up/tracking_error_analysis.png>]
+<figs/code/traj_track_LQR_extended/complex_maneuver/tracking_error_analysis.png, id=608, 850.377pt x 800.0289pt>
 File: figs/code/traj_track_LQR_extended/complex_maneuver/tracking_error_analysis.png Graphic file (type png)
 <use figs/code/traj_track_LQR_extended/complex_maneuver/tracking_error_analysis.png>
 Package pdftex.def Info: figs/code/traj_track_LQR_extended/complex_maneuver/tracking_error_analysis.png  used on input line 94.
 (pdftex.def)             Requested size: 455.24411pt x 428.29811pt.
- [33 <./figs/code/traj_track_LQR_extended/complex_maneuver/trajectory_comparison_LQR_Trajectory_Tracking.png>] [34 <./figs/code/traj_track_LQR_extended/complex_maneuver/tracking_error_analysis.png>]) (sections/06_section5.tex
-<figs/code/traj_track_MPC_extended/swing_up/trajectory_comparison_MPC_Trajectory_Tracking.png, id=620, 1178.001pt x 986.7264pt>
+ [34 <./figs/code/traj_track_LQR_extended/complex_maneuver/trajectory_comparison_LQR_Trajectory_Tracking.png>] [35 <./figs/code/traj_track_LQR_extended/complex_maneuver/tracking_error_analysis.png>]) (sections/06_section5.tex
+<figs/code/traj_track_MPC_extended/swing_up/trajectory_comparison_MPC_Trajectory_Tracking.png, id=624, 1178.001pt x 986.7264pt>
 File: figs/code/traj_track_MPC_extended/swing_up/trajectory_comparison_MPC_Trajectory_Tracking.png Graphic file (type png)
 <use figs/code/traj_track_MPC_extended/swing_up/trajectory_comparison_MPC_Trajectory_Tracking.png>
 Package pdftex.def Info: figs/code/traj_track_MPC_extended/swing_up/trajectory_comparison_MPC_Trajectory_Tracking.png  used on input line 42.
 (pdftex.def)             Requested size: 455.24411pt x 381.3287pt.
- [35]
-<figs/code/traj_track_MPC_extended/swing_up/tracking_error_analysis.png, id=625, 843.8727pt x 800.0289pt>
+ [36]
+<figs/code/traj_track_MPC_extended/swing_up/tracking_error_analysis.png, id=630, 843.8727pt x 800.0289pt>
 File: figs/code/traj_track_MPC_extended/swing_up/tracking_error_analysis.png Graphic file (type png)
 <use figs/code/traj_track_MPC_extended/swing_up/tracking_error_analysis.png>
 Package pdftex.def Info: figs/code/traj_track_MPC_extended/swing_up/tracking_error_analysis.png  used on input line 49.
 (pdftex.def)             Requested size: 455.24411pt x 431.59412pt.
- [36 <./figs/code/traj_track_MPC_extended/swing_up/trajectory_comparison_MPC_Trajectory_Tracking.png>]
-<figs/code/traj_track_MPC_extended/swing_down/trajectory_comparison_MPC_Trajectory_Tracking.png, id=632, 1183.5417pt x 986.7264pt>
+ [37 <./figs/code/traj_track_MPC_extended/swing_up/trajectory_comparison_MPC_Trajectory_Tracking.png>]
+<figs/code/traj_track_MPC_extended/swing_down/trajectory_comparison_MPC_Trajectory_Tracking.png, id=636, 1183.5417pt x 986.7264pt>
 File: figs/code/traj_track_MPC_extended/swing_down/trajectory_comparison_MPC_Trajectory_Tracking.png Graphic file (type png)
 <use figs/code/traj_track_MPC_extended/swing_down/trajectory_comparison_MPC_Trajectory_Tracking.png>
 Package pdftex.def Info: figs/code/traj_track_MPC_extended/swing_down/trajectory_comparison_MPC_Trajectory_Tracking.png  used on input line 56.
 (pdftex.def)             Requested size: 455.24411pt x 379.53702pt.
- [37 <./figs/code/traj_track_MPC_extended/swing_up/tracking_error_analysis.png>]
-<figs/code/traj_track_MPC_extended/swing_down/tracking_error_analysis.png, id=638, 850.8588pt x 800.0289pt>
+ [38 <./figs/code/traj_track_MPC_extended/swing_up/tracking_error_analysis.png>]
+<figs/code/traj_track_MPC_extended/swing_down/tracking_error_analysis.png, id=642, 850.8588pt x 800.0289pt>
 File: figs/code/traj_track_MPC_extended/swing_down/tracking_error_analysis.png Graphic file (type png)
 <use figs/code/traj_track_MPC_extended/swing_down/tracking_error_analysis.png>
 Package pdftex.def Info: figs/code/traj_track_MPC_extended/swing_down/tracking_error_analysis.png  used on input line 63.
 (pdftex.def)             Requested size: 455.24411pt x 428.05396pt.
- [38 <./figs/code/traj_track_MPC_extended/swing_down/trajectory_comparison_MPC_Trajectory_Tracking.png>]
-<figs/code/traj_track_MPC_extended/elbow_up/trajectory_comparison_MPC_Trajectory_Tracking.png, id=644, 1172.9421pt x 986.7264pt>
+ [39 <./figs/code/traj_track_MPC_extended/swing_down/trajectory_comparison_MPC_Trajectory_Tracking.png>]
+<figs/code/traj_track_MPC_extended/elbow_up/trajectory_comparison_MPC_Trajectory_Tracking.png, id=648, 1172.9421pt x 986.7264pt>
 File: figs/code/traj_track_MPC_extended/elbow_up/trajectory_comparison_MPC_Trajectory_Tracking.png Graphic file (type png)
 <use figs/code/traj_track_MPC_extended/elbow_up/trajectory_comparison_MPC_Trajectory_Tracking.png>
 Package pdftex.def Info: figs/code/traj_track_MPC_extended/elbow_up/trajectory_comparison_MPC_Trajectory_Tracking.png  used on input line 72.
 (pdftex.def)             Requested size: 455.24411pt x 382.96983pt.
- [39 <./figs/code/traj_track_MPC_extended/swing_down/tracking_error_analysis.png>]
-<figs/code/traj_track_MPC_extended/elbow_up/tracking_error_analysis.png, id=650, 840.741pt x 800.0289pt>
+ [40 <./figs/code/traj_track_MPC_extended/swing_down/tracking_error_analysis.png>]
+<figs/code/traj_track_MPC_extended/elbow_up/tracking_error_analysis.png, id=654, 840.741pt x 800.0289pt>
 File: figs/code/traj_track_MPC_extended/elbow_up/tracking_error_analysis.png Graphic file (type png)
 <use figs/code/traj_track_MPC_extended/elbow_up/tracking_error_analysis.png>
 Package pdftex.def Info: figs/code/traj_track_MPC_extended/elbow_up/tracking_error_analysis.png  used on input line 79.
 (pdftex.def)             Requested size: 455.24411pt x 433.2055pt.
- [40 <./figs/code/traj_track_MPC_extended/elbow_up/trajectory_comparison_MPC_Trajectory_Tracking.png>]
-<figs/code/traj_track_MPC_extended/complex_maneuver/trajectory_comparison_MPC_Trajectory_Tracking.png, id=656, 1174.8693pt x 986.7264pt>
+ [41 <./figs/code/traj_track_MPC_extended/elbow_up/trajectory_comparison_MPC_Trajectory_Tracking.png>]
+<figs/code/traj_track_MPC_extended/complex_maneuver/trajectory_comparison_MPC_Trajectory_Tracking.png, id=660, 1174.8693pt x 986.7264pt>
 File: figs/code/traj_track_MPC_extended/complex_maneuver/trajectory_comparison_MPC_Trajectory_Tracking.png Graphic file (type png)
 <use figs/code/traj_track_MPC_extended/complex_maneuver/trajectory_comparison_MPC_Trajectory_Tracking.png>
 Package pdftex.def Info: figs/code/traj_track_MPC_extended/complex_maneuver/trajectory_comparison_MPC_Trajectory_Tracking.png  used on input line 86.
 (pdftex.def)             Requested size: 455.24411pt x 382.33748pt.
- [41 <./figs/code/traj_track_MPC_extended/elbow_up/tracking_error_analysis.png>]
-<figs/code/traj_track_MPC_extended/complex_maneuver/tracking_error_analysis.png, id=662, 850.377pt x 800.0289pt>
+ [42 <./figs/code/traj_track_MPC_extended/elbow_up/tracking_error_analysis.png>]
+<figs/code/traj_track_MPC_extended/complex_maneuver/tracking_error_analysis.png, id=667, 850.377pt x 800.0289pt>
 File: figs/code/traj_track_MPC_extended/complex_maneuver/tracking_error_analysis.png Graphic file (type png)
 <use figs/code/traj_track_MPC_extended/complex_maneuver/tracking_error_analysis.png>
 Package pdftex.def Info: figs/code/traj_track_MPC_extended/complex_maneuver/tracking_error_analysis.png  used on input line 93.
 (pdftex.def)             Requested size: 455.24411pt x 428.29811pt.
- [42 <./figs/code/traj_track_MPC_extended/complex_maneuver/trajectory_comparison_MPC_Trajectory_Tracking.png>] [43 <./figs/code/traj_track_MPC_extended/complex_maneuver/tracking_error_analysis.png>]) (sections/07_section6.tex
-<figs/branch4/traj_gen_newton/swing_up/double_pendulum_envelope.png, id=675, 722.7pt x 578.16pt>
-File: figs/branch4/traj_gen_newton/swing_up/double_pendulum_envelope.png Graphic file (type png)
-<use figs/branch4/traj_gen_newton/swing_up/double_pendulum_envelope.png>
-Package pdftex.def Info: figs/branch4/traj_gen_newton/swing_up/double_pendulum_envelope.png  used on input line 15.
+ [43 <./figs/code/traj_track_MPC_extended/complex_maneuver/trajectory_comparison_MPC_Trajectory_Tracking.png>] [44 <./figs/code/traj_track_MPC_extended/complex_maneuver/tracking_error_analysis.png>]) (sections/07_section6.tex
+File: figs/code/traj_gen_newton/swing_up/double_pendulum_envelope.png Graphic file (type png)
+<use figs/code/traj_gen_newton/swing_up/double_pendulum_envelope.png>
+Package pdftex.def Info: figs/code/traj_gen_newton/swing_up/double_pendulum_envelope.png  used on input line 15.
 (pdftex.def)             Requested size: 218.51521pt x 174.80792pt.
-<figs/branch4/traj_gen_newton/swing_down/double_pendulum_envelope.png, id=677, 722.7pt x 578.16pt>
-File: figs/branch4/traj_gen_newton/swing_down/double_pendulum_envelope.png Graphic file (type png)
-<use figs/branch4/traj_gen_newton/swing_down/double_pendulum_envelope.png>
-Package pdftex.def Info: figs/branch4/traj_gen_newton/swing_down/double_pendulum_envelope.png  used on input line 24.
+File: figs/code/traj_gen_newton/swing_down/double_pendulum_envelope.png Graphic file (type png)
+<use figs/code/traj_gen_newton/swing_down/double_pendulum_envelope.png>
+Package pdftex.def Info: figs/code/traj_gen_newton/swing_down/double_pendulum_envelope.png  used on input line 24.
 (pdftex.def)             Requested size: 218.51521pt x 174.80792pt.
-<figs/branch4/traj_gen_newton/elbow_up/double_pendulum_envelope.png, id=679, 722.7pt x 578.16pt>
-File: figs/branch4/traj_gen_newton/elbow_up/double_pendulum_envelope.png Graphic file (type png)
-<use figs/branch4/traj_gen_newton/elbow_up/double_pendulum_envelope.png>
-Package pdftex.def Info: figs/branch4/traj_gen_newton/elbow_up/double_pendulum_envelope.png  used on input line 35.
+File: figs/code/traj_gen_newton/elbow_up/double_pendulum_envelope.png Graphic file (type png)
+<use figs/code/traj_gen_newton/elbow_up/double_pendulum_envelope.png>
+Package pdftex.def Info: figs/code/traj_gen_newton/elbow_up/double_pendulum_envelope.png  used on input line 35.
 (pdftex.def)             Requested size: 218.51521pt x 174.80792pt.
-<figs/branch4/traj_gen_newton/complex_maneuver/double_pendulum_envelope.png, id=681, 722.7pt x 578.16pt>
-File: figs/branch4/traj_gen_newton/complex_maneuver/double_pendulum_envelope.png Graphic file (type png)
-<use figs/branch4/traj_gen_newton/complex_maneuver/double_pendulum_envelope.png>
-Package pdftex.def Info: figs/branch4/traj_gen_newton/complex_maneuver/double_pendulum_envelope.png  used on input line 44.
+File: figs/code/traj_gen_newton/complex_maneuver/double_pendulum_envelope.png Graphic file (type png)
+<use figs/code/traj_gen_newton/complex_maneuver/double_pendulum_envelope.png>
+Package pdftex.def Info: figs/code/traj_gen_newton/complex_maneuver/double_pendulum_envelope.png  used on input line 44.
 (pdftex.def)             Requested size: 218.51521pt x 174.80792pt.
- [44 <./figs/branch4/traj_gen_newton/swing_up/double_pendulum_envelope.png> <./figs/branch4/traj_gen_newton/swing_down/double_pendulum_envelope.png> <./figs/branch4/traj_gen_newton/elbow_up/double_pendulum_envelope.png> <./figs/branch4/traj_gen_newton/complex_maneuver/double_pendulum_envelope.png>]) (sections/08_conclusion.tex [45]) (sections/09_appendix.tex [46] [47] [48]
+ [45]) (sections/08_conclusion.tex [46]) (sections/09_appendix.tex [47] [48] [49]
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 242.
- [49]) [50] (report_group_10.aux)
+ [50]) [51] (report_group_10.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-06>
@@ -947,17 +944,17 @@ Package rerunfilecheck Info: File `report_group_10.out' has not changed.
 (rerunfilecheck)             Checksum: 9E5E51B3767E234FB3DA1F910CFEB7C8;9292.
  ) 
 Here is how much of TeX's memory you used:
- 20973 strings out of 467871
- 414930 string characters out of 5418375
+ 20942 strings out of 467871
+ 412476 string characters out of 5418375
  790326 words of memory out of 5000000
- 49361 multiletter control sequences out of 15000+600000
+ 49329 multiletter control sequences out of 15000+600000
  651304 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,15n,79p,878b,1157s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\cenni\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/line10.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on report_group_10.pdf (51 pages, 22686353 bytes).
+Output written on report_group_10.pdf (52 pages, 21962498 bytes).
 PDF statistics:
- 1403 PDF objects out of 1440 (max. 8388607)
- 200 named destinations out of 1000 (max. 500000)
- 588 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1399 PDF objects out of 1440 (max. 8388607)
+ 201 named destinations out of 1000 (max. 500000)
+ 568 words of extra memory for PDF output out of 10000 (max. 10000000)
 
