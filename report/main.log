@@ -1,432 +1,422 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.5)  7 JAN 2026 14:34
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.11.17)  8 JAN 2026 03:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/giuli/OneDrive - Alma Mater Studiorum Università di Bologna/GIULIO MAZZAROPPI/UNIVERSITA/Anno 5/OPTCON-RL/Project/optcon-flexible-arm/report/main.tex"
-(c:/Users/giuli/OneDrive - Alma Mater Studiorum Università di Bologna/GIULIO MAZZAROPPI/UNIVERSITA/Anno 5/OPTCON-RL/Project/optcon-flexible-arm/report/main.tex
-LaTeX2e <2025-11-01>
-L3 programming layer <2025-12-24>
-(C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
-(C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
-File: size11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+**/home/giacomo/Documents/University/COURSES/AUTOMATION/Y5_OptimalControlReinforcementLearning/03_Projects/optcon-flexible-arm/report/main
+(/home/giacomo/Documents/University/COURSES/AUTOMATION/Y5_OptimalControlReinforcementLearning/03_Projects/optcon-flexible-arm/report/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count275
-\c@section=\count276
-\c@subsection=\count277
-\c@subsubsection=\count278
-\c@paragraph=\count279
-\c@subparagraph=\count280
-\c@figure=\count281
-\c@table=\count282
-\abovecaptionskip=\skip49
-\belowcaptionskip=\skip50
-\bibindent=\dimen148
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
-Package: inputenc 2024/02/08 v1.3d Input encoding file
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2025/07/09 v2.17z AMS math features
-\@mathmargin=\skip51
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 112.
+ (/usr/share/texmf/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip50
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
-Package: amstext 2024/11/17 v2.01 AMS text
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks19
-\ex@=\dimen149
-)) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+\ex@=\dimen141
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen150
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+\pmbraise@=\dimen142
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count283
-LaTeX Info: Redefining \frac on input line 233.
-\uproot@=\count284
-\leftroot@=\count285
-LaTeX Info: Redefining \overline on input line 398.
-LaTeX Info: Redefining \colon on input line 409.
-\classnum@=\count286
-\DOTSCASE@=\count287
-LaTeX Info: Redefining \ldots on input line 495.
-LaTeX Info: Redefining \dots on input line 498.
-LaTeX Info: Redefining \cdots on input line 619.
-\Mathstrutbox@=\box53
-\strutbox@=\box54
-LaTeX Info: Redefining \big on input line 721.
-LaTeX Info: Redefining \Big on input line 722.
-LaTeX Info: Redefining \bigg on input line 723.
-LaTeX Info: Redefining \Bigg on input line 724.
-\big@size=\dimen151
-LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
-\macc@depth=\count288
-LaTeX Info: Redefining \bmod on input line 904.
-LaTeX Info: Redefining \pmod on input line 909.
-LaTeX Info: Redefining \smash on input line 939.
-LaTeX Info: Redefining \relbar on input line 969.
-LaTeX Info: Redefining \Relbar on input line 970.
-\c@MaxMatrixCols=\count289
-\dotsspace@=\muskip17
-\c@parentequation=\count290
-\dspbrk@lvl=\count291
+\inf@bad=\count191
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count192
+\leftroot@=\count193
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count194
+\DOTSCASE@=\count195
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count196
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count197
+\dotsspace@=\muskip16
+\c@parentequation=\count198
+\dspbrk@lvl=\count199
 \tag@help=\toks20
-\row@=\count292
-\column@=\count293
-\maxfields@=\count294
+\row@=\count266
+\column@=\count267
+\maxfields@=\count268
 \andhelp@=\toks21
-\eqnshift@=\dimen152
-\alignsep@=\dimen153
-\tagshift@=\dimen154
-\tagwidth@=\dimen155
-\totwidth@=\dimen156
-\lineht@=\dimen157
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
 \@envbody=\toks22
-\multlinegap=\skip52
-\multlinetaggap=\skip53
+\multlinegap=\skip51
+\multlinetaggap=\skip52
 \mathdisplay@stack=\toks23
-LaTeX Info: Redefining \[ on input line 2950.
-LaTeX Info: Redefining \] on input line 2951.
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks24
 \thm@bodyfont=\toks25
 \thm@headfont=\toks26
 \thm@notefont=\toks27
 \thm@headpunct=\toks28
-\thm@preskip=\skip54
-\thm@postskip=\skip55
-\thm@headsep=\skip56
+\thm@preskip=\skip53
+\thm@postskip=\skip54
+\thm@headsep=\skip55
 \dth@everypar=\toks29
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks30
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
-Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
-Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 106.
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
-File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+Package graphics Info: Driver file: xetex.def on input line 107.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
 ))
-\Gin@req@height=\dimen158
-\Gin@req@width=\dimen159
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
-Package: iftex 2024/12/12 v1.0g TeX engine tests
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count295
-\Gm@cntv=\count296
-\c@Gm@tempcnt=\count297
-\Gm@bindingoffset=\dimen160
-\Gm@wd@mp=\dimen161
-\Gm@odd@mp=\dimen162
-\Gm@even@mp=\dimen163
-\Gm@layoutwidth=\dimen164
-\Gm@layoutheight=\dimen165
-\Gm@layouthoffset=\dimen166
-\Gm@layoutvoffset=\dimen167
+\Gm@cnth=\count269
+\Gm@cntv=\count270
+\c@Gm@tempcnt=\count271
+\Gm@bindingoffset=\dimen152
+\Gm@wd@mp=\dimen153
+\Gm@odd@mp=\dimen154
+\Gm@even@mp=\dimen155
+\Gm@layoutwidth=\dimen156
+\Gm@layoutheight=\dimen157
+\Gm@layouthoffset=\dimen158
+\Gm@layoutvoffset=\dimen159
 \Gm@dimlist=\toks31
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count298
+\c@float@type=\count272
 \float@exts=\toks32
-\float@box=\box55
+\float@box=\box53
 \@float@everytoks=\toks33
-\@floatcapt=\box56
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+\@floatcapt=\box54
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen168
-\captionmargin=\dimen169
-\caption@leftmargin=\dimen170
-\caption@rightmargin=\dimen171
-\caption@width=\dimen172
-\caption@indent=\dimen173
-\caption@parindent=\dimen174
-\caption@hangindent=\dimen175
+\caption@tempdima=\dimen160
+\captionmargin=\dimen161
+\caption@leftmargin=\dimen162
+\caption@rightmargin=\dimen163
+\caption@width=\dimen164
+\caption@indent=\dimen165
+\caption@parindent=\dimen166
+\caption@hangindent=\dimen167
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count299
-\c@continuedfloat=\count300
+\c@caption@flags=\count273
+\c@continuedfloat=\count274
 Package caption Info: float package is loaded.
 )
 Package caption Info: New subtype `subfigure' on input line 238.
-\c@subfigure=\count301
+\c@subfigure=\count275
 Package caption Info: New subtype `subtable' on input line 238.
-\c@subtable=\count302
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
-\lst@mode=\count303
-\lst@gtempboxa=\box57
+\c@subtable=\count276
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count277
+\lst@gtempboxa=\box55
 \lst@token=\toks34
-\lst@length=\count304
-\lst@currlwidth=\dimen176
-\lst@column=\count305
-\lst@pos=\count306
-\lst@lostspace=\dimen177
-\lst@width=\dimen178
-\lst@newlines=\count307
-\lst@lineno=\count308
-\lst@maxwidth=\dimen179
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
-File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
-File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
-\c@lstnumber=\count309
-\lst@skipnumbers=\count310
-\lst@framebox=\box58
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
-File: listings.cfg 2025/11/14 1.11b listings configuration
+\lst@length=\count278
+\lst@currlwidth=\dimen168
+\lst@column=\count279
+\lst@pos=\count280
+\lst@lostspace=\dimen169
+\lst@width=\dimen170
+\lst@newlines=\count281
+\lst@lineno=\count282
+\lst@maxwidth=\dimen171
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count283
+\lst@skipnumbers=\count284
+\lst@framebox=\box56
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
 ))
-Package: listings 2025/11/14 1.11b (Carsten Heinz)
-
-==> First Aid for listings.sty no longer applied!
-    Expected:
-        2024/09/23 1.10c (Carsten Heinz)
-    but found:
-        2025/11/14 1.11b (Carsten Heinz)
-    so I'm assuming it got fixed.
-(C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
-Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+ (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: pdftex.def on input line 274.
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
-Package xcolor Info: Model `RGB' extended on input line 1365.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package xcolor Info: Driver file: xetex.def on input line 274.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+ (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+ (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package pdftexcmds Info: \pdfdraftmode not found.
+)) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
-Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count311
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
-Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count312
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+\c@section@level=\count285
+) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count286
 )
-\@linkdim=\dimen180
-\Hy@linkcounter=\count313
-\Hy@pagecounter=\count314
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
-Now handling font encoding PD1 ...
-... no UTF-8 mapping file for font encoding PD1
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+\@linkdim=\dimen172
+\Hy@linkcounter=\count287
+\Hy@pagecounter=\count288
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count315
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
-Now handling font encoding PU ...
-... no UTF-8 mapping file for font encoding PU
+\Hy@SavedSpaceFactor=\count289
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Hyper figures OFF on input line 4195.
-Package hyperref Info: Link nesting OFF on input line 4200.
-Package hyperref Info: Hyper index ON on input line 4203.
-Package hyperref Info: Plain pages OFF on input line 4210.
-Package hyperref Info: Backreferencing OFF on input line 4215.
+Package hyperref Info: Hyper figures OFF on input line 4179.
+Package hyperref Info: Link nesting OFF on input line 4184.
+Package hyperref Info: Hyper index ON on input line 4187.
+Package hyperref Info: Plain pages OFF on input line 4194.
+Package hyperref Info: Backreferencing OFF on input line 4199.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4462.
-\c@Hy@tempcnt=\count316
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
-\Urlmuskip=\muskip18
+Package hyperref Info: Bookmarks ON on input line 4446.
+\c@Hy@tempcnt=\count290
+ (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4801.
-\XeTeXLinkMargin=\dimen181
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+LaTeX Info: Redefining \url on input line 4784.
+\XeTeXLinkMargin=\dimen173
+ (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+ (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count317
-\Field@Width=\dimen182
-\Fld@charsize=\dimen183
-Package hyperref Info: Hyper figures OFF on input line 6078.
-Package hyperref Info: Link nesting OFF on input line 6083.
-Package hyperref Info: Hyper index ON on input line 6086.
-Package hyperref Info: backreferencing OFF on input line 6093.
-Package hyperref Info: Link coloring OFF on input line 6098.
-Package hyperref Info: Link coloring with OCG OFF on input line 6103.
-Package hyperref Info: PDF/A mode OFF on input line 6108.
-\Hy@abspage=\count318
-\c@Item=\count319
-\c@Hfootnote=\count320
+\Fld@menulength=\count291
+\Field@Width=\dimen174
+\Fld@charsize=\dimen175
+Package hyperref Info: Hyper figures OFF on input line 6063.
+Package hyperref Info: Link nesting OFF on input line 6068.
+Package hyperref Info: Hyper index ON on input line 6071.
+Package hyperref Info: backreferencing OFF on input line 6078.
+Package hyperref Info: Link coloring OFF on input line 6083.
+Package hyperref Info: Link coloring with OCG OFF on input line 6088.
+Package hyperref Info: PDF/A mode OFF on input line 6093.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
 )
-Package hyperref Info: Driver (autodetected): hpdftex.
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
-\Fld@listcount=\count321
-\c@bookmark@seq@number=\count322
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
-Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+\Hy@abspage=\count292
+\c@Item=\count293
+\c@Hfootnote=\count294
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2024-01-20 v7.01h Hyperref driver for XeTeX
+ (/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\pdfm@box=\box57
+\c@Hy@AnnotLevel=\count295
+\HyField@AnnotCount=\count296
+\Fld@listcount=\count297
+\c@bookmark@seq@number=\count298
+ (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+) (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip57
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+\Hy@SectionHShift=\skip56
+) (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen184
-\lightrulewidth=\dimen185
-\cmidrulewidth=\dimen186
-\belowrulesep=\dimen187
-\belowbottomsep=\dimen188
-\aboverulesep=\dimen189
-\abovetopsep=\dimen190
-\cmidrulesep=\dimen191
-\cmidrulekern=\dimen192
-\defaultaddspace=\dimen193
-\@cmidla=\count323
-\@cmidlb=\count324
-\@aboverulesep=\dimen194
-\@belowrulesep=\dimen195
-\@thisruleclass=\count325
-\@lastruleclass=\count326
-\@thisrulewidth=\dimen196
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
-Package: siunitx 2025-07-09 v3.4.14 A comprehensive (SI) units package
-\l__siunitx_number_uncert_offset_int=\count327
-\l__siunitx_number_exponent_fixed_int=\count328
-\l__siunitx_number_min_decimal_int=\count329
-\l__siunitx_number_min_integer_int=\count330
-\l__siunitx_number_round_precision_int=\count331
-\l__siunitx_number_lower_threshold_int=\count332
-\l__siunitx_number_upper_threshold_int=\count333
-\l__siunitx_number_group_first_int=\count334
-\l__siunitx_number_group_size_int=\count335
-\l__siunitx_number_group_minimum_int=\count336
-\l__siunitx_angle_tmp_dim=\dimen197
-\l__siunitx_angle_marker_box=\box59
-\l__siunitx_angle_unit_box=\box60
-\l__siunitx_compound_count_int=\count337
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/translations\translations.sty
+\heavyrulewidth=\dimen176
+\lightrulewidth=\dimen177
+\cmidrulewidth=\dimen178
+\belowrulesep=\dimen179
+\belowbottomsep=\dimen180
+\aboverulesep=\dimen181
+\abovetopsep=\dimen182
+\cmidrulesep=\dimen183
+\cmidrulekern=\dimen184
+\defaultaddspace=\dimen185
+\@cmidla=\count299
+\@cmidlb=\count300
+\@aboverulesep=\dimen186
+\@belowrulesep=\dimen187
+\@thisruleclass=\count301
+\@lastruleclass=\count302
+\@thisrulewidth=\dimen188
+) (/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty
+Package: siunitx 2024-01-25 v3.3.10 A comprehensive (SI) units package
+\l__siunitx_number_uncert_offset_int=\count303
+\l__siunitx_number_exponent_fixed_int=\count304
+\l__siunitx_number_min_decimal_int=\count305
+\l__siunitx_number_min_integer_int=\count306
+\l__siunitx_number_round_precision_int=\count307
+\l__siunitx_number_lower_threshold_int=\count308
+\l__siunitx_number_upper_threshold_int=\count309
+\l__siunitx_number_group_first_int=\count310
+\l__siunitx_number_group_size_int=\count311
+\l__siunitx_number_group_minimum_int=\count312
+\l__siunitx_angle_tmp_dim=\dimen189
+\l__siunitx_angle_marker_box=\box58
+\l__siunitx_angle_unit_box=\box59
+\l__siunitx_compound_count_int=\count313
+ (/usr/share/texlive/texmf-dist/tex/latex/translations/translations.sty
 Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
 )
-\l__siunitx_table_tmp_box=\box61
-\l__siunitx_table_tmp_dim=\dimen198
-\l__siunitx_table_column_width_dim=\dimen199
-\l__siunitx_table_integer_box=\box62
-\l__siunitx_table_decimal_box=\box63
-\l__siunitx_table_uncert_box=\box64
-\l__siunitx_table_before_box=\box65
-\l__siunitx_table_after_box=\box66
-\l__siunitx_table_before_dim=\dimen256
-\l__siunitx_table_carry_dim=\dimen257
-\l__siunitx_unit_tmp_int=\count338
-\l__siunitx_unit_position_int=\count339
-\l__siunitx_unit_total_int=\count340
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
-Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
-\col@sep=\dimen258
-\ar@mcellbox=\box67
-\extrarowheight=\dimen259
+\l__siunitx_table_tmp_box=\box60
+\l__siunitx_table_tmp_dim=\dimen190
+\l__siunitx_table_column_width_dim=\dimen191
+\l__siunitx_table_integer_box=\box61
+\l__siunitx_table_decimal_box=\box62
+\l__siunitx_table_uncert_box=\box63
+\l__siunitx_table_before_box=\box64
+\l__siunitx_table_after_box=\box65
+\l__siunitx_table_before_dim=\dimen192
+\l__siunitx_table_carry_dim=\dimen193
+\l__siunitx_unit_tmp_int=\count314
+\l__siunitx_unit_position_int=\count315
+\l__siunitx_unit_total_int=\count316
+ (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen194
+\ar@mcellbox=\box66
+\extrarowheight=\dimen195
 \NC@list=\toks35
-\extratabsurround=\skip58
-\backup@length=\skip59
-\ar@cellbox=\box68
-)) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2025/12/11 v25.17 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
-\babel@savecnt=\count341
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2068.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2070.
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2072.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2073.
-LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2074.
-LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2076.
-LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2101.
-\U@D=\dimen260
-\l@unhyphenated=\language79
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\extratabsurround=\skip57
+\backup@length=\skip58
+\ar@cellbox=\box67
+)) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2024/01/07 v24.1 The Babel package
+\babel@savecnt=\count317
+\U@D=\dimen196
+\l@unhyphenated=\language89
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/xebabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count342
-Package babel Info: Configuration files are deprecated, as
-(babel)             they can break document portability.
-(babel)             Reported on input line 4196.
-
-*************************************
-* Local config file bblopts.cfg used
-*
-(C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-english.tex)
-Package babel Info: Importing font and identification data for english
-(babel)             from babel-en.ini. Reported on input line 4320.
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
+\bbl@dirlevel=\count318
+ (/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
 Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language73). Reported on input line 105.
+(babel)             (\language54). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language73). Reported on input line 108.
-)) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
+(babel)             (\language54). Reported on input line 108.
+)) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+) (/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/tools\bm.sty
-Package: bm 2025/10/21 v1.2g Bold Symbol Support (DPC/FMi)
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2023/07/08 v1.2f Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup6
 \symboldletters=\mathgroup7
 \symboldsymbols=\mathgroup8
@@ -434,30 +424,31 @@ Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
 Package bm Info: No bold for \U/msa/m/n, using \pmb.
 Package bm Info: No bold for \U/msb/m/n, using \pmb.
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
-Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
-\c@tracingmulticols=\count343
-\mult@box=\box69
-\multicol@leftmargin=\dimen261
-\c@unbalance=\count344
-\c@collectmore=\count345
-\doublecol@number=\count346
-\multicoltolerance=\count347
-\multicolpretolerance=\count348
-\full@width=\dimen262
-\page@free=\dimen263
-\premulticols=\dimen264
-\postmulticols=\dimen265
-\multicolsep=\skip60
-\multicolbaselineskip=\skip61
-\partial@page=\box70
-\last@line=\box71
-\mc@boxedresult=\box72
-\maxbalancingoverflow=\dimen266
-\mult@rightbox=\box73
-\mult@grightbox=\box74
-\mult@firstbox=\box75
-\mult@gfirstbox=\box76
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
+\c@tracingmulticols=\count319
+\mult@box=\box68
+\multicol@leftmargin=\dimen197
+\c@unbalance=\count320
+\c@collectmore=\count321
+\doublecol@number=\count322
+\multicoltolerance=\count323
+\multicolpretolerance=\count324
+\full@width=\dimen198
+\page@free=\dimen199
+\premulticols=\dimen256
+\postmulticols=\dimen257
+\multicolsep=\skip59
+\multicolbaselineskip=\skip60
+\partial@page=\box69
+\last@line=\box70
+\mc@boxedresult=\box71
+\maxbalancingoverflow=\dimen258
+\mult@rightbox=\box72
+\mult@grightbox=\box73
+\mult@firstbox=\box74
+\mult@gfirstbox=\box75
+\@tempa=\box76
 \@tempa=\box77
 \@tempa=\box78
 \@tempa=\box79
@@ -493,72 +484,69 @@ Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
 \@tempa=\box109
 \@tempa=\box110
 \@tempa=\box111
-\@tempa=\box112
-\c@minrows=\count349
-\c@columnbadness=\count350
-\c@finalcolumnbadness=\count351
-\last@try=\dimen267
-\multicolovershoot=\dimen268
-\multicolundershoot=\dimen269
-\mult@nat@firstbox=\box113
-\colbreak@box=\box114
-\mc@col@check@num=\count352
-\g__mc_curr_col_int=\count353
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/abstract\abstract.sty
+\c@minrows=\count325
+\c@columnbadness=\count326
+\c@finalcolumnbadness=\count327
+\last@try=\dimen259
+\multicolovershoot=\dimen260
+\multicolundershoot=\dimen261
+\mult@nat@firstbox=\box112
+\colbreak@box=\box113
+\mc@col@check@num=\count328
+) (/usr/share/texlive/texmf-dist/tex/latex/abstract/abstract.sty
 Package: abstract 2009/06/08 v1.2a configurable abstracts
-\abstitleskip=\skip62
-\absleftindent=\skip63
-\absrightindent=\skip64
-\absparindent=\skip65
-\absparsep=\skip66
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/cancel\cancel.sty
+\abstitleskip=\skip61
+\absleftindent=\skip62
+\absrightindent=\skip63
+\absparindent=\skip64
+\absparsep=\skip65
+) (/usr/share/texlive/texmf-dist/tex/latex/cancel/cancel.sty
 Package: cancel 2013/04/12 v2.2 Cancel math terms
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithm.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
-Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
 \@float@every@algorithm=\toks36
-\c@algorithm=\count354
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algpseudocode.sty
+\c@algorithm=\count329
+) (/usr/share/texlive/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
 Package: algpseudocode 
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algorithmicx.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
 Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
 
 Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
-\c@ALG@line=\count355
-\c@ALG@rem=\count356
-\c@ALG@nested=\count357
-\ALG@tlm=\skip67
-\ALG@thistlm=\skip68
-\c@ALG@Lnr=\count358
-\c@ALG@blocknr=\count359
-\c@ALG@storecount=\count360
-\c@ALG@tmpcounter=\count361
-\ALG@tmplength=\skip69
+\c@ALG@line=\count330
+\c@ALG@rem=\count331
+\c@ALG@nested=\count332
+\ALG@tlm=\skip66
+\ALG@thistlm=\skip67
+\c@ALG@Lnr=\count333
+\c@ALG@blocknr=\count334
+\c@ALG@storecount=\count335
+\c@ALG@tmpcounter=\count336
+\ALG@tmplength=\skip68
 )
 Document Style - pseudocode environments for use with the `algorithmicx' style
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
-Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
-\f@nch@headwidth=\skip70
-\f@nch@offset@elh=\skip71
-\f@nch@offset@erh=\skip72
-\f@nch@offset@olh=\skip73
-\f@nch@offset@orh=\skip74
-\f@nch@offset@elf=\skip75
-\f@nch@offset@erf=\skip76
-\f@nch@offset@olf=\skip77
-\f@nch@offset@orf=\skip78
-\f@nch@height=\skip79
-\f@nch@footalignment=\skip80
-\f@nch@widthL=\skip81
-\f@nch@widthC=\skip82
-\f@nch@widthR=\skip83
-\@temptokenb=\toks37
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count362
-) (main.aux)
+) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip69
+\f@nch@O@elh=\skip70
+\f@nch@O@erh=\skip71
+\f@nch@O@olh=\skip72
+\f@nch@O@orh=\skip73
+\f@nch@O@elf=\skip74
+\f@nch@O@erf=\skip75
+\f@nch@O@olf=\skip76
+\f@nch@O@orf=\skip77
+) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2024-01-04 L3 backend support: XeTeX
+\g__graphics_track_int=\count337
+\l__pdf_internal_box=\box114
+\g__pdf_backend_object_int=\count338
+\g__pdf_backend_annotation_int=\count339
+\g__pdf_backend_link_int=\count340
+) (./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
@@ -570,6 +558,12 @@ LaTeX Font Info:    ... okay on input line 97.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 97.
 LaTeX Font Info:    ... okay on input line 97.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 97.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 97.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 97.
 LaTeX Font Info:    ... okay on input line 97.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 97.
 LaTeX Font Info:    ... okay on input line 97.
@@ -579,29 +573,11 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 97.
 LaTeX Font Info:    ... okay on input line 97.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 97.
 LaTeX Font Info:    ... okay on input line 97.
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count363
-\scratchdimen=\dimen270
-\scratchbox=\box115
-\nofMPsegments=\count364
-\nofMParguments=\count365
-\everyMPshowfont=\toks38
-\MPscratchCnt=\count366
-\MPscratchDim=\dimen271
-\MPnumerator=\count367
-\makeMPintoPDFobject=\count368
-\everyMPtoPDFconversion=\toks39
-) (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-))
+
 *geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
+*geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
+* driver: xetex
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -636,271 +612,215 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count369
+\c@lstlisting=\count341
 Package hyperref Info: Link coloring OFF on input line 97.
-(main.out) (main.out)
+(./main.out) (./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-english.trsl
+ (/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 97.
-<figs/logo_unibo.png, id=167, 766.865pt x 401.5pt>
-File: figs/logo_unibo.png Graphic file (type png)
-<use figs/logo_unibo.png>
-Package pdftex.def Info: figs/logo_unibo.png  used on input line 110.
-(pdftex.def)             Requested size: 207.05632pt x 108.40643pt.
+File: figs/logo_unibo.png Graphic file (type bmp)
+<figs/logo_unibo.png>
  [1
 
-{C:/Users/giuli/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./figs/logo_unibo.png (PNG copy)>] (main.toc
+] (./main.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
- (C:\Users\giuli\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.145 \newpage
-               [1] (main.lof)
+ [1] (./main.lof)
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
- [2] (sections/00_abstract.tex [3]) (sections/01_introduction.tex [4]) (sections/02_section1.tex
-<figs/misc/DoublePendulumModel.png, id=312, 282.30469pt x 341.77687pt>
-File: figs/misc/DoublePendulumModel.png Graphic file (type png)
-<use figs/misc/DoublePendulumModel.png>
-Package pdftex.def Info: figs/misc/DoublePendulumModel.png  used on input line 10.
-(pdftex.def)             Requested size: 91.04742pt x 110.2261pt.
- [5 <./figs/misc/DoublePendulumModel.png>] [6]) (sections/03_section2.tex
-Underfull \hbox (badness 1297) in paragraph at lines 34--36
-\T1/cmr/m/n/10.95 for each $\OML/cmm/m/it/10.95 ^^R[]$ \T1/cmr/m/n/10.95 value, cor-re-spond-
+ [2] [3] (./sections/01_abstract.tex [4]) (./sections/02_section1.tex
+File: figs/misc/DoublePendulumModel.png Graphic file (type bmp)
+<figs/misc/DoublePendulumModel.png>
+
+Overfull \hbox (1.67897pt too wide) in paragraph at lines 36--37
+[]\T1/lmr/m/n/10.95 The state space vec-tor is de-fined to in-clude both po-si-tions and ve-loc-i-ties: $\OML/cmm/m/it/10.95 x \OT1/cmr/m/n/10.95 = [][] \OMS/cmsy/m/n/10.95 2
  []
 
-<figs/branch4/traj_gen_newton/low_diagonal_hold/equilibrium_manifold_3d.png, id=352, 555.9972pt x 463.4916pt>
-File: figs/branch4/traj_gen_newton/low_diagonal_hold/equilibrium_manifold_3d.png Graphic file (type png)
-<use figs/branch4/traj_gen_newton/low_diagonal_hold/equilibrium_manifold_3d.png>
-Package pdftex.def Info: figs/branch4/traj_gen_newton/low_diagonal_hold/equilibrium_manifold_3d.png  used on input line 41.
-(pdftex.def)             Requested size: 227.62206pt x 189.74988pt.
+[5]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 48.
+ (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [6]) (./sections/03_section2.tex
+Underfull \hbox (badness 1102) in paragraph at lines 34--36
+\T1/lmr/m/n/10.95 for each $\OML/cmm/m/it/10.95 ^^R[]$ \T1/lmr/m/n/10.95 value, cor-re-spond-
+ []
+
+
+Underfull \hbox (badness 1484) in paragraph at lines 34--36
+\T1/lmr/m/n/10.95 "Elbow-Up" and "Elbow-Down"
+ []
+
+File: figs/branch4/traj_gen_newton/low_diagonal_hold/equilibrium_manifold_3d.png Graphic file (type bmp)
+<figs/branch4/traj_gen_newton/low_diagonal_hold/equilibrium_manifold_3d.png>
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 42.
 See the caption package documentation for explanation.
 
-<figs/branch4/traj_gen_newton/low_diagonal_hold/equilibrium_manifold_2d.png, id=353, 1059.4782pt x 360.8682pt>
-File: figs/branch4/traj_gen_newton/low_diagonal_hold/equilibrium_manifold_2d.png Graphic file (type png)
-<use figs/branch4/traj_gen_newton/low_diagonal_hold/equilibrium_manifold_2d.png>
-Package pdftex.def Info: figs/branch4/traj_gen_newton/low_diagonal_hold/equilibrium_manifold_2d.png  used on input line 49.
-(pdftex.def)             Requested size: 455.24411pt x 155.06017pt.
-[7 <./figs/branch4/traj_gen_newton/low_diagonal_hold/equilibrium_manifold_3d.png> <./figs/branch4/traj_gen_newton/low_diagonal_hold/equilibrium_manifold_2d.png>] [8]
-<figs/branch5/traj_gen_newton/inverted_hand_off/armijo/armijo_iteration_150.png, id=371, 392.667pt x 339.9099pt>
-File: figs/branch5/traj_gen_newton/inverted_hand_off/armijo/armijo_iteration_150.png Graphic file (type png)
-<use figs/branch5/traj_gen_newton/inverted_hand_off/armijo/armijo_iteration_150.png>
-Package pdftex.def Info: figs/branch5/traj_gen_newton/inverted_hand_off/armijo/armijo_iteration_150.png  used on input line 96.
-(pdftex.def)             Requested size: 200.35849pt x 173.43991pt.
-<figs/branch5/traj_gen_newton/inverted_hand_off/armijo/armijo_iteration_170.png, id=372, 392.667pt x 339.9099pt>
-File: figs/branch5/traj_gen_newton/inverted_hand_off/armijo/armijo_iteration_170.png Graphic file (type png)
-<use figs/branch5/traj_gen_newton/inverted_hand_off/armijo/armijo_iteration_170.png>
-Package pdftex.def Info: figs/branch5/traj_gen_newton/inverted_hand_off/armijo/armijo_iteration_170.png  used on input line 103.
-(pdftex.def)             Requested size: 200.35849pt x 173.43991pt.
- [9 <./figs/branch5/traj_gen_newton/inverted_hand_off/armijo/armijo_iteration_150.png> <./figs/branch5/traj_gen_newton/inverted_hand_off/armijo/armijo_iteration_170.png>]) (sections/04_section3.tex
-<figs/misc/reference_trajectory.png, id=379, 514.3215pt x 422.7795pt>
-File: figs/misc/reference_trajectory.png Graphic file (type png)
-<use figs/misc/reference_trajectory.png>
-Package pdftex.def Info: figs/misc/reference_trajectory.png  used on input line 22.
-(pdftex.def)             Requested size: 364.19667pt x 299.3756pt.
-<figs/branch4/traj_gen_newton/elbow_up/reference_trajectory.png, id=380, 499.6266pt x 422.7795pt>
-File: figs/branch4/traj_gen_newton/elbow_up/reference_trajectory.png Graphic file (type png)
-<use figs/branch4/traj_gen_newton/elbow_up/reference_trajectory.png>
-Package pdftex.def Info: figs/branch4/traj_gen_newton/elbow_up/reference_trajectory.png  used on input line 38.
-(pdftex.def)             Requested size: 364.19667pt x 308.17488pt.
- [10 <./figs/misc/reference_trajectory.png>]
-<figs/branch4/traj_gen_newton/elbow_up/double_pendulum_envelope.png, id=388, 722.7pt x 578.16pt>
-File: figs/branch4/traj_gen_newton/elbow_up/double_pendulum_envelope.png Graphic file (type png)
-<use figs/branch4/traj_gen_newton/elbow_up/double_pendulum_envelope.png>
-Package pdftex.def Info: figs/branch4/traj_gen_newton/elbow_up/double_pendulum_envelope.png  used on input line 52.
-(pdftex.def)             Requested size: 227.62206pt x 182.0949pt.
-<figs/branch4/traj_gen_newton/swing_up/double_pendulum_envelope.png, id=389, 722.7pt x 578.16pt>
-File: figs/branch4/traj_gen_newton/swing_up/double_pendulum_envelope.png Graphic file (type png)
-<use figs/branch4/traj_gen_newton/swing_up/double_pendulum_envelope.png>
-Package pdftex.def Info: figs/branch4/traj_gen_newton/swing_up/double_pendulum_envelope.png  used on input line 59.
-(pdftex.def)             Requested size: 227.62206pt x 182.0949pt.
-<figs/branch4/traj_gen_newton/swing_down/double_pendulum_envelope.png, id=390, 722.7pt x 578.16pt>
-File: figs/branch4/traj_gen_newton/swing_down/double_pendulum_envelope.png Graphic file (type png)
-<use figs/branch4/traj_gen_newton/swing_down/double_pendulum_envelope.png>
-Package pdftex.def Info: figs/branch4/traj_gen_newton/swing_down/double_pendulum_envelope.png  used on input line 70.
-(pdftex.def)             Requested size: 227.62206pt x 182.0949pt.
-<figs/branch4/traj_gen_newton/complex_maneuver/double_pendulum_envelope.png, id=391, 722.7pt x 578.16pt>
-File: figs/branch4/traj_gen_newton/complex_maneuver/double_pendulum_envelope.png Graphic file (type png)
-<use figs/branch4/traj_gen_newton/complex_maneuver/double_pendulum_envelope.png>
-Package pdftex.def Info: figs/branch4/traj_gen_newton/complex_maneuver/double_pendulum_envelope.png  used on input line 77.
-(pdftex.def)             Requested size: 227.62206pt x 182.0949pt.
- [11 <./figs/branch4/traj_gen_newton/elbow_up/reference_trajectory.png>] [12 <./figs/branch4/traj_gen_newton/elbow_up/double_pendulum_envelope.png> <./figs/branch4/traj_gen_newton/swing_up/double_pendulum_envelope.png>]
-<figs/misc/trajectory_comparison_mid.png, id=406, 896.8707pt x 613.0905pt>
-File: figs/misc/trajectory_comparison_mid.png Graphic file (type png)
-<use figs/misc/trajectory_comparison_mid.png>
-Package pdftex.def Info: figs/misc/trajectory_comparison_mid.png  used on input line 91.
-(pdftex.def)             Requested size: 364.19667pt x 248.9645pt.
- [13 <./figs/branch4/traj_gen_newton/swing_down/double_pendulum_envelope.png> <./figs/branch4/traj_gen_newton/complex_maneuver/double_pendulum_envelope.png>]
-<figs/branch4/traj_gen_newton/swing_up/trajectory_comparison_mid.png, id=414, 900.0024pt x 800.0289pt>
-File: figs/branch4/traj_gen_newton/swing_up/trajectory_comparison_mid.png Graphic file (type png)
-<use figs/branch4/traj_gen_newton/swing_up/trajectory_comparison_mid.png>
-Package pdftex.def Info: figs/branch4/traj_gen_newton/swing_up/trajectory_comparison_mid.png  used on input line 107.
-(pdftex.def)             Requested size: 364.19667pt x 323.72916pt.
-<figs/branch4/traj_gen_newton/the_dive/trajectory_comparison_mid.png, id=415, 903.1341pt x 800.0289pt>
-File: figs/branch4/traj_gen_newton/the_dive/trajectory_comparison_mid.png Graphic file (type png)
-<use figs/branch4/traj_gen_newton/the_dive/trajectory_comparison_mid.png>
-Package pdftex.def Info: figs/branch4/traj_gen_newton/the_dive/trajectory_comparison_mid.png  used on input line 114.
-(pdftex.def)             Requested size: 364.19667pt x 322.61829pt.
- [14 <./figs/misc/trajectory_comparison_mid.png>]
-Overfull \vbox (4.16435pt too high) has occurred while \output is active []
-
- [15 <./figs/branch4/traj_gen_newton/swing_up/trajectory_comparison_mid.png> <./figs/branch4/traj_gen_newton/the_dive/trajectory_comparison_mid.png>]
-<figs/branch4/traj_gen_newton/custom5/trajectory_comparison_mid.png, id=428, 903.1341pt x 800.0289pt>
-File: figs/branch4/traj_gen_newton/custom5/trajectory_comparison_mid.png Graphic file (type png)
-<use figs/branch4/traj_gen_newton/custom5/trajectory_comparison_mid.png>
-Package pdftex.def Info: figs/branch4/traj_gen_newton/custom5/trajectory_comparison_mid.png  used on input line 144.
-(pdftex.def)             Requested size: 455.24411pt x 403.27286pt.
- [16]
-<figs/branch4/traj_gen_newton/custom5/cost_function.png, id=435, 636.6987pt x 401.3394pt>
-File: figs/branch4/traj_gen_newton/custom5/cost_function.png Graphic file (type png)
-<use figs/branch4/traj_gen_newton/custom5/cost_function.png>
-Package pdftex.def Info: figs/branch4/traj_gen_newton/custom5/cost_function.png  used on input line 153.
-(pdftex.def)             Requested size: 364.19667pt x 229.56805pt.
- [17 <./figs/branch4/traj_gen_newton/custom5/trajectory_comparison_mid.png>]
-<figs/branch4/traj_gen_newton/custom5/descent_direction.png, id=441, 625.8582pt x 401.3394pt>
-File: figs/branch4/traj_gen_newton/custom5/descent_direction.png Graphic file (type png)
-<use figs/branch4/traj_gen_newton/custom5/descent_direction.png>
-Package pdftex.def Info: figs/branch4/traj_gen_newton/custom5/descent_direction.png  used on input line 160.
-(pdftex.def)             Requested size: 364.19667pt x 233.54861pt.
- [18 <./figs/branch4/traj_gen_newton/custom5/cost_function.png> <./figs/branch4/traj_gen_newton/custom5/descent_direction.png>]
-<figs/branch5/traj_gen_newton/custom5/trajectory_comparison_mid_extended.png, id=449, 908.4339pt x 800.9925pt>
-File: figs/branch5/traj_gen_newton/custom5/trajectory_comparison_mid_extended.png Graphic file (type png)
-<use figs/branch5/traj_gen_newton/custom5/trajectory_comparison_mid_extended.png>
-Package pdftex.def Info: figs/branch5/traj_gen_newton/custom5/trajectory_comparison_mid_extended.png  used on input line 191.
-(pdftex.def)             Requested size: 455.24411pt x 401.41193pt.
+File: figs/branch4/traj_gen_newton/low_diagonal_hold/equilibrium_manifold_2d.png Graphic file (type bmp)
+<figs/branch4/traj_gen_newton/low_diagonal_hold/equilibrium_manifold_2d.png>
+[7] [8]
+File: figs/branch5/traj_gen_newton/inverted_hand_off/armijo/armijo_iteration_150.png Graphic file (type bmp)
+<figs/branch5/traj_gen_newton/inverted_hand_off/armijo/armijo_iteration_150.png>
+File: figs/branch5/traj_gen_newton/inverted_hand_off/armijo/armijo_iteration_170.png Graphic file (type bmp)
+<figs/branch5/traj_gen_newton/inverted_hand_off/armijo/armijo_iteration_170.png>
+File: figs/branch5/traj_gen_newton/complex_maneuver/armijo/armijo_iteration_0.png Graphic file (type bmp)
+<figs/branch5/traj_gen_newton/complex_maneuver/armijo/armijo_iteration_0.png>
+File: figs/branch5/traj_gen_newton/complex_maneuver/armijo/armijo_iteration_30.png Graphic file (type bmp)
+<figs/branch5/traj_gen_newton/complex_maneuver/armijo/armijo_iteration_30.png>
+ [9]) (./sections/04_section3.tex
+File: figs/misc/reference_trajectory.png Graphic file (type bmp)
+<figs/misc/reference_trajectory.png>
+File: figs/branch4/traj_gen_newton/elbow_up/reference_trajectory.png Graphic file (type bmp)
+<figs/branch4/traj_gen_newton/elbow_up/reference_trajectory.png>
+ [10]
+File: figs/branch4/traj_gen_newton/elbow_up/double_pendulum_envelope.png Graphic file (type bmp)
+<figs/branch4/traj_gen_newton/elbow_up/double_pendulum_envelope.png>
+File: figs/branch4/traj_gen_newton/swing_up/double_pendulum_envelope.png Graphic file (type bmp)
+<figs/branch4/traj_gen_newton/swing_up/double_pendulum_envelope.png>
+ [11]
+File: figs/branch4/traj_gen_newton/swing_down/double_pendulum_envelope.png Graphic file (type bmp)
+<figs/branch4/traj_gen_newton/swing_down/double_pendulum_envelope.png>
+File: figs/branch4/traj_gen_newton/complex_maneuver/double_pendulum_envelope.png Graphic file (type bmp)
+<figs/branch4/traj_gen_newton/complex_maneuver/double_pendulum_envelope.png>
+ [12]
+File: figs/misc/trajectory_comparison_mid.png Graphic file (type bmp)
+<figs/misc/trajectory_comparison_mid.png>
+ [13]
+File: figs/branch4/traj_gen_newton/swing_up/trajectory_comparison_mid.png Graphic file (type bmp)
+<figs/branch4/traj_gen_newton/swing_up/trajectory_comparison_mid.png>
+File: figs/branch4/traj_gen_newton/elbow_up/trajectory_comparison_mid.png Graphic file (type bmp)
+<figs/branch4/traj_gen_newton/elbow_up/trajectory_comparison_mid.png>
+ [14]
+File: figs/branch4/traj_gen_newton/swing_down/trajectory_comparison_mid.png Graphic file (type bmp)
+<figs/branch4/traj_gen_newton/swing_down/trajectory_comparison_mid.png>
+ [15] [16]
+File: figs/branch4/traj_gen_newton/custom5/trajectory_comparison_mid.png Graphic file (type bmp)
+<figs/branch4/traj_gen_newton/custom5/trajectory_comparison_mid.png>
+File: figs/branch4/traj_gen_newton/custom5/cost_function.png Graphic file (type bmp)
+<figs/branch4/traj_gen_newton/custom5/cost_function.png>
+ [17]
+File: figs/branch4/traj_gen_newton/custom5/descent_direction.png Graphic file (type bmp)
+<figs/branch4/traj_gen_newton/custom5/descent_direction.png>
+ [18]
+File: figs/branch5/traj_gen_newton/complex_maneuver/trajectory_comparison_mid_extended.png Graphic file (type bmp)
+<figs/branch5/traj_gen_newton/complex_maneuver/trajectory_comparison_mid_extended.png>
  [19]
-<figs/branch5/traj_gen_newton/custom5/cost_function.png, id=463, 619.8357pt x 401.3394pt>
-File: figs/branch5/traj_gen_newton/custom5/cost_function.png Graphic file (type png)
-<use figs/branch5/traj_gen_newton/custom5/cost_function.png>
-Package pdftex.def Info: figs/branch5/traj_gen_newton/custom5/cost_function.png  used on input line 200.
-(pdftex.def)             Requested size: 364.19667pt x 235.8206pt.
- [20 <./figs/branch5/traj_gen_newton/custom5/trajectory_comparison_mid_extended.png>]
-<figs/branch5/traj_gen_newton/custom5/descent_direction.png, id=469, 625.8582pt x 401.3394pt>
-File: figs/branch5/traj_gen_newton/custom5/descent_direction.png Graphic file (type png)
-<use figs/branch5/traj_gen_newton/custom5/descent_direction.png>
-Package pdftex.def Info: figs/branch5/traj_gen_newton/custom5/descent_direction.png  used on input line 207.
-(pdftex.def)             Requested size: 364.19667pt x 233.54861pt.
- [21 <./figs/branch5/traj_gen_newton/custom5/cost_function.png> <./figs/branch5/traj_gen_newton/custom5/descent_direction.png>] [22]) (sections/05_section4.tex [23]
-<figs/branch5/traj_track_LQR/custom5/trajectory_comparison_LQR_Trajectory_Tracking.png, id=493, 1174.8693pt x 986.7264pt>
-File: figs/branch5/traj_track_LQR/custom5/trajectory_comparison_LQR_Trajectory_Tracking.png Graphic file (type png)
-<use figs/branch5/traj_track_LQR/custom5/trajectory_comparison_LQR_Trajectory_Tracking.png>
-Package pdftex.def Info: figs/branch5/traj_track_LQR/custom5/trajectory_comparison_LQR_Trajectory_Tracking.png  used on input line 49.
-(pdftex.def)             Requested size: 455.24411pt x 382.33748pt.
-<figs/branch5/traj_track_LQR/custom5/tracking_error_analysis.png, id=494, 843.8727pt x 800.0289pt>
-File: figs/branch5/traj_track_LQR/custom5/tracking_error_analysis.png Graphic file (type png)
-<use figs/branch5/traj_track_LQR/custom5/tracking_error_analysis.png>
-Package pdftex.def Info: figs/branch5/traj_track_LQR/custom5/tracking_error_analysis.png  used on input line 56.
-(pdftex.def)             Requested size: 455.24411pt x 431.59412pt.
- [24 <./figs/branch5/traj_track_LQR/custom5/trajectory_comparison_LQR_Trajectory_Tracking.png>]
-<figs/branch5/traj_track_LQR/swing_up/trajectory_comparison_LQR_Trajectory_Tracking.png, id=501, 1178.001pt x 986.7264pt>
-File: figs/branch5/traj_track_LQR/swing_up/trajectory_comparison_LQR_Trajectory_Tracking.png Graphic file (type png)
-<use figs/branch5/traj_track_LQR/swing_up/trajectory_comparison_LQR_Trajectory_Tracking.png>
-Package pdftex.def Info: figs/branch5/traj_track_LQR/swing_up/trajectory_comparison_LQR_Trajectory_Tracking.png  used on input line 63.
-(pdftex.def)             Requested size: 455.24411pt x 381.3287pt.
- [25 <./figs/branch5/traj_track_LQR/custom5/tracking_error_analysis.png>]
-<figs/branch5/traj_track_LQR/swing_up/tracking_error_analysis.png, id=507, 850.377pt x 800.0289pt>
-File: figs/branch5/traj_track_LQR/swing_up/tracking_error_analysis.png Graphic file (type png)
-<use figs/branch5/traj_track_LQR/swing_up/tracking_error_analysis.png>
-Package pdftex.def Info: figs/branch5/traj_track_LQR/swing_up/tracking_error_analysis.png  used on input line 70.
-(pdftex.def)             Requested size: 455.24411pt x 428.29811pt.
- [26 <./figs/branch5/traj_track_LQR/swing_up/trajectory_comparison_LQR_Trajectory_Tracking.png>]
-<figs/branch5/traj_track_LQR/low_diagonal_hold/trajectory_comparison_LQR_Trajectory_Tracking.png, id=513, 1180.41pt x 986.7264pt>
-File: figs/branch5/traj_track_LQR/low_diagonal_hold/trajectory_comparison_LQR_Trajectory_Tracking.png Graphic file (type png)
-<use figs/branch5/traj_track_LQR/low_diagonal_hold/trajectory_comparison_LQR_Trajectory_Tracking.png>
-Package pdftex.def Info: figs/branch5/traj_track_LQR/low_diagonal_hold/trajectory_comparison_LQR_Trajectory_Tracking.png  used on input line 77.
-(pdftex.def)             Requested size: 455.24411pt x 380.54579pt.
- [27 <./figs/branch5/traj_track_LQR/swing_up/tracking_error_analysis.png>]
-File: figs/branch5/traj_track_LQR/custom5/tracking_error_analysis.png Graphic file (type png)
-<use figs/branch5/traj_track_LQR/custom5/tracking_error_analysis.png>
-Package pdftex.def Info: figs/branch5/traj_track_LQR/custom5/tracking_error_analysis.png  used on input line 84.
-(pdftex.def)             Requested size: 455.24411pt x 431.59412pt.
- [28 <./figs/branch5/traj_track_LQR/low_diagonal_hold/trajectory_comparison_LQR_Trajectory_Tracking.png>]
-<figs/branch5/traj_track_LQR/elbow_up/trajectory_comparison_LQR_Trajectory_Tracking.png, id=524, 1171.0149pt x 986.7264pt>
-File: figs/branch5/traj_track_LQR/elbow_up/trajectory_comparison_LQR_Trajectory_Tracking.png Graphic file (type png)
-<use figs/branch5/traj_track_LQR/elbow_up/trajectory_comparison_LQR_Trajectory_Tracking.png>
-Package pdftex.def Info: figs/branch5/traj_track_LQR/elbow_up/trajectory_comparison_LQR_Trajectory_Tracking.png  used on input line 91.
-(pdftex.def)             Requested size: 455.24411pt x 383.6022pt.
+File: figs/branch5/traj_gen_newton/complex_maneuver/cost_function.png Graphic file (type bmp)
+<figs/branch5/traj_gen_newton/complex_maneuver/cost_function.png>
+ [20]
+File: figs/branch5/traj_gen_newton/complex_maneuver/descent_direction.png Graphic file (type bmp)
+<figs/branch5/traj_gen_newton/complex_maneuver/descent_direction.png>
+ [21]
+
+LaTeX Warning: Reference `fig:newton_extened_swing_down' on page 22 undefined on input line 230.
+
+File: figs/branch5/traj_gen_newton/swing_up/trajectory_comparison_mid_extended.png Graphic file (type bmp)
+<figs/branch5/traj_gen_newton/swing_up/trajectory_comparison_mid_extended.png>
+File: figs/branch5/traj_gen_newton/elbow_up/trajectory_comparison_mid_extended.png Graphic file (type bmp)
+<figs/branch5/traj_gen_newton/elbow_up/trajectory_comparison_mid_extended.png>
+[22]
+File: figs/branch5/traj_gen_newton/swing_down/trajectory_comparison_mid_extended.png Graphic file (type bmp)
+<figs/branch5/traj_gen_newton/swing_down/trajectory_comparison_mid_extended.png>
+
+
+LaTeX Warning: Reference `fig:newton_extened_elbow_up' on page 23 undefined on input line 257.
+
+[23]
+
+LaTeX Warning: Reference `fig:newton_extened_swing_down' on page 24 undefined on input line 259.
+
+[24]) (./sections/05_section4.tex [25]
+File: figs/branch5/traj_track_LQR/swing_up/trajectory_comparison_LQR_Trajectory_Tracking.png Graphic file (type bmp)
+<figs/branch5/traj_track_LQR/swing_up/trajectory_comparison_LQR_Trajectory_Tracking.png>
+File: figs/branch5/traj_track_LQR/swing_up/tracking_error_analysis.png Graphic file (type bmp)
+<figs/branch5/traj_track_LQR/swing_up/tracking_error_analysis.png>
+ [26]
+File: figs/branch5/traj_track_LQR/swing_down/trajectory_comparison_LQR_Trajectory_Tracking.png Graphic file (type bmp)
+<figs/branch5/traj_track_LQR/swing_down/trajectory_comparison_LQR_Trajectory_Tracking.png>
+ [27]
+File: figs/branch5/traj_track_LQR/swing_down/tracking_error_analysis.png Graphic file (type bmp)
+<figs/branch5/traj_track_LQR/swing_down/tracking_error_analysis.png>
+ [28]
+File: figs/branch5/traj_track_LQR/elbow_up/trajectory_comparison_LQR_Trajectory_Tracking.png Graphic file (type bmp)
+<figs/branch5/traj_track_LQR/elbow_up/trajectory_comparison_LQR_Trajectory_Tracking.png>
  [29]
-<figs/branch5/traj_track_LQR/elbow_up/tracking_error_analysis.png, id=529, 834.4776pt x 800.0289pt>
-File: figs/branch5/traj_track_LQR/elbow_up/tracking_error_analysis.png Graphic file (type png)
-<use figs/branch5/traj_track_LQR/elbow_up/tracking_error_analysis.png>
-Package pdftex.def Info: figs/branch5/traj_track_LQR/elbow_up/tracking_error_analysis.png  used on input line 98.
-(pdftex.def)             Requested size: 455.24411pt x 436.45268pt.
- [30 <./figs/branch5/traj_track_LQR/elbow_up/trajectory_comparison_LQR_Trajectory_Tracking.png>] [31 <./figs/branch5/traj_track_LQR/elbow_up/tracking_error_analysis.png>]) (sections/06_section5.tex
-<figs/branch5/traj_track_MPC/the_dive/trajectory_comparison_MPC_Trajectory_Tracking.png, id=545, 729.927pt x 986.7264pt>
-File: figs/branch5/traj_track_MPC/the_dive/trajectory_comparison_MPC_Trajectory_Tracking.png Graphic file (type png)
-<use figs/branch5/traj_track_MPC/the_dive/trajectory_comparison_MPC_Trajectory_Tracking.png>
-Package pdftex.def Info: figs/branch5/traj_track_MPC/the_dive/trajectory_comparison_MPC_Trajectory_Tracking.png  used on input line 46.
-(pdftex.def)             Requested size: 455.24411pt x 615.40765pt.
- [32]
-<figs/branch5/traj_track_MPC/the_dive/tracking_error_analysis.png, id=550, 843.8727pt x 800.0289pt>
-File: figs/branch5/traj_track_MPC/the_dive/tracking_error_analysis.png Graphic file (type png)
-<use figs/branch5/traj_track_MPC/the_dive/tracking_error_analysis.png>
-Package pdftex.def Info: figs/branch5/traj_track_MPC/the_dive/tracking_error_analysis.png  used on input line 53.
-(pdftex.def)             Requested size: 455.24411pt x 431.59412pt.
- [33 <./figs/branch5/traj_track_MPC/the_dive/trajectory_comparison_MPC_Trajectory_Tracking.png>]
-<figs/branch5/traj_track_MPC/swing_up/trajectory_comparison_MPC_Trajectory_Tracking.png, id=556, 729.927pt x 986.7264pt>
-File: figs/branch5/traj_track_MPC/swing_up/trajectory_comparison_MPC_Trajectory_Tracking.png Graphic file (type png)
-<use figs/branch5/traj_track_MPC/swing_up/trajectory_comparison_MPC_Trajectory_Tracking.png>
-Package pdftex.def Info: figs/branch5/traj_track_MPC/swing_up/trajectory_comparison_MPC_Trajectory_Tracking.png  used on input line 60.
-(pdftex.def)             Requested size: 455.24411pt x 615.40765pt.
- [34 <./figs/branch5/traj_track_MPC/the_dive/tracking_error_analysis.png>]
-<figs/branch5/traj_track_MPC/swing_up/tracking_error_analysis.png, id=562, 840.741pt x 800.0289pt>
-File: figs/branch5/traj_track_MPC/swing_up/tracking_error_analysis.png Graphic file (type png)
-<use figs/branch5/traj_track_MPC/swing_up/tracking_error_analysis.png>
-Package pdftex.def Info: figs/branch5/traj_track_MPC/swing_up/tracking_error_analysis.png  used on input line 67.
-(pdftex.def)             Requested size: 455.24411pt x 433.2055pt.
- [35 <./figs/branch5/traj_track_MPC/swing_up/trajectory_comparison_MPC_Trajectory_Tracking.png>]
-File: figs/branch5/traj_track_MPC/the_dive/trajectory_comparison_MPC_Trajectory_Tracking.png Graphic file (type png)
-<use figs/branch5/traj_track_MPC/the_dive/trajectory_comparison_MPC_Trajectory_Tracking.png>
-Package pdftex.def Info: figs/branch5/traj_track_MPC/the_dive/trajectory_comparison_MPC_Trajectory_Tracking.png  used on input line 74.
-(pdftex.def)             Requested size: 455.24411pt x 615.40765pt.
- [36 <./figs/branch5/traj_track_MPC/swing_up/tracking_error_analysis.png>]
-File: figs/branch5/traj_track_MPC/the_dive/tracking_error_analysis.png Graphic file (type png)
-<use figs/branch5/traj_track_MPC/the_dive/tracking_error_analysis.png>
-Package pdftex.def Info: figs/branch5/traj_track_MPC/the_dive/tracking_error_analysis.png  used on input line 81.
-(pdftex.def)             Requested size: 455.24411pt x 431.59412pt.
- [37] [38]) (sections/07_section6.tex [39]) (sections/08_conclusion.tex [40]) (sections/09_appendix.tex [41] [42] [43]
-Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 243.
-) [44] [45] (main.aux)
+File: figs/branch5/traj_track_LQR/elbow_up/tracking_error_analysis.png Graphic file (type bmp)
+<figs/branch5/traj_track_LQR/elbow_up/tracking_error_analysis.png>
+ [30]
+File: figs/branch5/traj_track_LQR/complex_maneuver/trajectory_comparison_LQR_Trajectory_Tracking.png Graphic file (type bmp)
+<figs/branch5/traj_track_LQR/complex_maneuver/trajectory_comparison_LQR_Trajectory_Tracking.png>
+ [31]
+File: figs/branch5/traj_track_LQR/complex_maneuver/tracking_error_analysis.png Graphic file (type bmp)
+<figs/branch5/traj_track_LQR/complex_maneuver/tracking_error_analysis.png>
+ [32] [33]) (./sections/06_section5.tex
+File: figs/branch5/traj_track_MPC/swing_up/trajectory_comparison_MPC_Trajectory_Tracking.png Graphic file (type bmp)
+<figs/branch5/traj_track_MPC/swing_up/trajectory_comparison_MPC_Trajectory_Tracking.png>
+ [34]
+File: figs/branch5/traj_track_MPC/swing_up/tracking_error_analysis.png Graphic file (type bmp)
+<figs/branch5/traj_track_MPC/swing_up/tracking_error_analysis.png>
+ [35]
+File: figs/branch5/traj_track_MPC/swing_down/trajectory_comparison_MPC_Trajectory_Tracking.png Graphic file (type bmp)
+<figs/branch5/traj_track_MPC/swing_down/trajectory_comparison_MPC_Trajectory_Tracking.png>
+ [36]
+File: figs/branch5/traj_track_MPC/swing_down/tracking_error_analysis.png Graphic file (type bmp)
+<figs/branch5/traj_track_MPC/swing_down/tracking_error_analysis.png>
+ [37]
+File: figs/branch5/traj_track_MPC/elbow_up/trajectory_comparison_MPC_Trajectory_Tracking.png Graphic file (type bmp)
+<figs/branch5/traj_track_MPC/elbow_up/trajectory_comparison_MPC_Trajectory_Tracking.png>
+ [38]
+File: figs/branch5/traj_track_MPC/elbow_up/tracking_error_analysis.png Graphic file (type bmp)
+<figs/branch5/traj_track_MPC/elbow_up/tracking_error_analysis.png>
+ [39]
+File: figs/branch5/traj_track_MPC/complex_maneuver/trajectory_comparison_MPC_Trajectory_Tracking.png Graphic file (type bmp)
+<figs/branch5/traj_track_MPC/complex_maneuver/trajectory_comparison_MPC_Trajectory_Tracking.png>
+ [40]
+File: figs/branch5/traj_track_MPC/complex_maneuver/tracking_error_analysis.png Graphic file (type bmp)
+<figs/branch5/traj_track_MPC/complex_maneuver/tracking_error_analysis.png>
+ [41] [42]) (./sections/07_section6.tex
+File: figs/branch4/traj_gen_newton/swing_up/double_pendulum_envelope.png Graphic file (type bmp)
+<figs/branch4/traj_gen_newton/swing_up/double_pendulum_envelope.png>
+File: figs/branch4/traj_gen_newton/swing_down/double_pendulum_envelope.png Graphic file (type bmp)
+<figs/branch4/traj_gen_newton/swing_down/double_pendulum_envelope.png>
+File: figs/branch4/traj_gen_newton/elbow_up/double_pendulum_envelope.png Graphic file (type bmp)
+<figs/branch4/traj_gen_newton/elbow_up/double_pendulum_envelope.png>
+File: figs/branch4/traj_gen_newton/complex_maneuver/double_pendulum_envelope.png Graphic file (type bmp)
+<figs/branch4/traj_gen_newton/complex_maneuver/double_pendulum_envelope.png>
+ [43]) (./sections/08_conclusion.tex [44]) (./sections/09_appendix.tex [45] [46] [47]
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 242.
+ [48]) [49] (./main.aux)
  ***********
-LaTeX2e <2025-11-01>
-L3 programming layer <2025-12-24>
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 8A3BE4FF3BAB3793A7413955B4700678;8446.
+(rerunfilecheck)             Checksum: 56A549B29564E3098D874658B551BEE5;9282.
  ) 
 Here is how much of TeX's memory you used:
- 20852 strings out of 467871
- 406704 string characters out of 5418377
- 789831 words of memory out of 5000000
- 49259 multiletter control sequences out of 15000+600000
- 649747 words of font info for 97 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 75i,15n,79p,875b,1144s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\giuli\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\giuli\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\giuli\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\giuli\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\giuli\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\giuli\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\giuli\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\giuli\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\giuli\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\giuli\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\giuli\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\giuli\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\giuli\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\giuli\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\giuli\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Users/giuli/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/giuli/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/giuli/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/giuli/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/giuli/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/giuli/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/giuli/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb><C:/Users/giuli/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/giuli/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/giuli/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/giuli/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/giuli/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/giuli/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/giuli/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/giuli/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/line10.pfb><C:/Users/giuli/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (46 pages, 14085075 bytes).
-PDF statistics:
- 1282 PDF objects out of 1440 (max. 8388607)
- 180 named destinations out of 1000 (max. 500000)
- 489 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 20087 strings out of 474878
+ 397527 string characters out of 5762515
+ 1934627 words of memory out of 5000000
+ 41816 multiletter control sequences out of 15000+600000
+ 610785 words of font info for 95 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 72i,15n,79p,908b,906s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
+Output written on main.pdf (50 pages).
